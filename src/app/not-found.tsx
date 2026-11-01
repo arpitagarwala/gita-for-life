@@ -1,0 +1,1 @@
+import Link from 'next/link';export default function NotFound(){return <main id="main" className="reader-wrap"><span className="eyebrow">PAGE NOT FOUND</span><h1>Let’s find your way back.</h1><p>This chapter, shloka, or page isn’t available.</p><Link className="button primary" href="/">Return to Gita for Life →</Link></main>;}

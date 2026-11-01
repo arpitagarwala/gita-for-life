@@ -1,0 +1,27 @@
+{
+  "name": "bhagwat-gita",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "node scripts/prepare-data.mjs && next dev",
+    "build": "node scripts/prepare-data.mjs && next build",
+    "start": "next start",
+    "check": "node scripts/prepare-data.mjs && node scripts/check-guidance.mjs && tsc --noEmit"
+  },
+  "dependencies": {
+    "next": "16.4.3",
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "autoprefixer": "^10.5.0",
+    "eslint": "^9",
+    "eslint-config-next": "16.4.3",
+    "postcss": "^8.5.15",
+    "tailwindcss": "^3.4.0",
+    "typescript": "^5"
+  }
+}
