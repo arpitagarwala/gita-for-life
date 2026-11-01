@@ -1,9 +1,9 @@
 import type {Metadata} from 'next';
-import Link from 'next/link';
+import ChapterContent from '@/components/ChapterContent';
 import {notFound} from 'next/navigation';
 import {GITA_CHAPTERS,getChapter} from '@/data/gita';
 type Props={params:Promise<{chapter:string}>};
 export const dynamicParams=false;
 export function generateStaticParams(){return GITA_CHAPTERS.map(c=>({chapter:String(c.chapter)}));}
 export async function generateMetadata({params}:Props):Promise<Metadata>{const {chapter}=await params;const c=getChapter(Number(chapter));return c?{title:'Chapter '+c.chapter+': '+c.nameEnglish,description:c.summary.slice(0,155),alternates:{canonical:'/'+chapter}}:{};}
-export default async function ChapterPage({params}:Props){const {chapter}=await params;const c=getChapter(Number(chapter));if(!c)notFound();return <main id="main" className="reader-wrap"><nav className="breadcrumb" aria-label="Breadcrumb"><Link href="/">Home</Link><span>/</span><Link href="/#chapters">The Bhagavad Gita</Link><span>/ Chapter {c.chapter}</span></nav><header className="reader-heading"><span className="eyebrow">CHAPTER {c.chapter} · {c.verses.length} SHLOKAS</span><h1>{c.nameEnglish}</h1><p lang="sa" className="sanskrit">{c.name}</p><p className="chapter-summary">{c.summary}</p><Link className="button primary" href={'/'+c.chapter+'/1'}>Begin this chapter →</Link></header><div className="verse-list">{c.verses.map(v=><Link href={'/'+c.chapter+'/'+v.verse} key={v.verse}><strong>SHLOKA {c.chapter}.{v.verse} ↗</strong><p className="sanskrit" lang="sa">{v.sanskrit.split('\n').slice(0,2).join('\n')}</p><p>{v.meaning.slice(0,200)}{v.meaning.length>200?'…':''}</p></Link>)}</div><nav className="verse-navigation" aria-label="Chapter navigation">{c.chapter>1?<Link href={'/'+(c.chapter-1)}>← Chapter {c.chapter-1}</Link>:<Link href="/">← Home</Link>}{c.chapter<18&&<Link href={'/'+(c.chapter+1)}>Chapter {c.chapter+1} →</Link>}</nav></main>;}
+export default async function ChapterPage({params}:Props){const {chapter}=await params;const c=getChapter(Number(chapter));if(!c)notFound();return <ChapterContent chapter={{chapter:c.chapter,name:c.name,nameEnglish:c.nameEnglish,summary:c.summary,verses:c.verses.map(({verse,sanskrit,meaning,meaningHindi})=>({verse,sanskrit,meaning,meaningHindi}))}}/>;}

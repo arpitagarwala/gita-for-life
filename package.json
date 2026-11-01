@@ -6,7 +6,7 @@
     "dev": "node scripts/prepare-data.mjs && next dev",
     "build": "node scripts/prepare-data.mjs && next build",
     "start": "node scripts/preview.mjs",
-    "check": "node scripts/prepare-data.mjs && node scripts/check-guidance.mjs && tsc --noEmit",
+    "check": "node scripts/prepare-data.mjs && node scripts/check-guidance.mjs && node scripts/check-reading.mjs && tsc --noEmit",
     "preview": "node scripts/preview.mjs"
   },
   "dependencies": {

@@ -1,6 +1,6 @@
 # Gita for Life
 
-An accessible, free Bhagavad Gita companion by [arpitagarwala](https://arpitagarwala.com), built with Codex.
+An accessible, free Bhagavad Gita companion by [arpitagarwala](https://arpitagarwala.com).
 
 ## Run
 
@@ -22,9 +22,10 @@ The production build exports all 18 chapter pages and 701 verse pages to `out/`.
 
 ## Features
 
-- Sanskrit, transliteration, English and Hindi reading
+- App-wide English/Hindi language setting, Sanskrit and transliteration
+- English and Hindi explanations for all 701 shlokas, with clearly identified shared passage context
 - Keyword search across the corpus, loaded only when requested
-- Eight curated life themes with connected verses and practical reflections; no generative AI
+- Eight curated life themes with connected verses and practical reflections
 - Local bookmarks, reading position, journal and text export
 - Day/night modes and larger-text option
 - Browser read-aloud using device voices (may use the browser's network speech service)
@@ -37,7 +38,7 @@ The preexisting dataset comes from Vedic Scriptures: https://github.com/vedicscr
 
 ## Privacy and operation
 
-No analytics, logins, accounts, database, paid dependencies, or AI inference. Browser localStorage holds notes/settings/bookmarks. User questions are matched locally and not stored. Export notes before clearing browser data. No cloud backup or device synchronization. Service-worker cache is opportunistic; not all 700+ pages download automatically. Hosting provider usage caps apply and zero-cost operation at unlimited scale is not promised.
+No analytics, logins, accounts, database, paid runtime services. Browser localStorage holds notes/settings/bookmarks. User questions are matched locally and not stored. Export notes before clearing browser data. No cloud backup or device synchronization. Service-worker cache is opportunistic; not all 700+ pages download automatically. Hosting provider usage caps apply and zero-cost operation at unlimited scale is not promised.
 
 ## Domain
 
