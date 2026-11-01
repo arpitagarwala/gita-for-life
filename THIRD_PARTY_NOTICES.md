@@ -9,3 +9,5 @@ Modern commentary and translations are not automatically public domain because t
 Life-topic connections, prompts and daily reflections are new modern interpretations for this app and clearly distinguished from quoted scripture. They are not medical, legal, financial, or crisis counseling.
 
 The bilingual shloka explanations added in this revision are original contemporary study notes. They are not attributed to the translators. All 701 entries are covered by 148 passage notes; the applicable verse range is displayed with each explanation.
+
+The compact guidance matching assets derive from MinishLab potion-multilingual-128M, revision 73908c3438cf03b6a01bcb9611d62b23d0726f08, under MIT. See public/guidance/LICENSE.txt. Runtime questions are processed locally; the original full model is not distributed.

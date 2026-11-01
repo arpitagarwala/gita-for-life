@@ -1,45 +1,64 @@
 # Gita for Life
 
-An accessible, free Bhagavad Gita companion by [arpitagarwala](https://arpitagarwala.com).
+A free Bhagavad Gita companion by [arpitagarwala](https://arpitagarwala.com).
 
-## Run
+## Run and validate
 
 Requires Node.js 22 or 24.
 
 ```sh
 npm ci
+npm run check
 npm run dev
 ```
 
-## Validate and build
+`npm run build` exports the site to `out/`. `npm start` previews that export at http://localhost:3107.
 
-```sh
-npm run check
-npm run build
-```
+## Guidance
 
-The production build exports all 18 chapter pages and 701 verse pages to `out/`. No runtime backend or API keys are required. Vercel uses the checked-in configuration. Connect this GitHub repository to Vercel and use its Hobby plan for noncommercial use, subject to its usage limits. Do not enable paid add-ons or paid AI services.
+The question form searches all 701 verse entries and their bilingual reading notes. It no longer selects a prepared answer from the eight discovery themes.
 
-## Features
+- A compact, multilingual static embedding table matches related meanings. All 256 semantic dimensions are retained with a pruned English/Hindi vocabulary and 4-bit word weights.
+- Full-query and clause similarities, lexical relevance, everyday-to-scripture concept expansion, and passage diversity rank the corpus.
+- The response assembles cited interpretations, complementary connections, and practical steps using recognized circumstances, deadlines and constraints. Additional details rerun the search.
+- Explicit requests to connect verse references are honoured. Unsafe situations are handled before loading the matching assets.
+- This is meaning-based retrieval with structured response composition. It is not a generative conversational model and cannot reliably understand every nuance, negation, unusual wording or life situation. The interface asks for clarification when evidence is weak.
 
-- App-wide English/Hindi language setting, Sanskrit and transliteration
-- English and Hindi explanations for all 701 shlokas, with clearly identified shared passage context
-- Keyword search across the corpus, loaded only when requested
-- Eight curated life themes with connected verses and practical reflections
-- Local bookmarks, reading position, journal and text export
-- Day/night modes and larger-text option
-- Browser read-aloud using device voices (may use the browser's network speech service)
-- Offline cache for the home page, dataset, and pages visited online
+Runtime matching files total approximately 4.93 MB, plus the scripture corpus and worker. They load when guidance is first requested and can be cached for later use. Matching runs in a dedicated worker, without a GPU requirement. All assets and requests are served by this static site; the question itself is never sent to a server. No hosted inference, vector database, account, API key or paid service is required. GitHub and Vercel free-plan usage limits still apply; unlimited free bandwidth is not promised.
+
+## Other features
+
+- Sanskrit, transliteration, English and Hindi reading
+- App-wide English/Hindi selection
+- Explanations for all 701 shlokas, with shared passage context clearly identified
+- Corpus search, local bookmarks, reading position, private journal and export
+- Day/night modes and larger text
+- Read aloud and offline caching
 - Static metadata, canonical links, robots and sitemap
 
-## Data and attribution
+## Rebuilding the matching data
 
-The preexisting dataset comes from Vedic Scriptures: https://github.com/vedicscriptures/bhagavad-gita-api. English: Swami Sivananda. Hindi: Swami Tejomayananda. This edition includes chapter 13's opening question and therefore has 701 entries. Original modern reflections are not translations. The former long commentaries are not served. Do not assume that ancient Sanskrit and modern translations share the same copyright status; retain attribution and review the source terms when redistributing. See THIRD_PARTY_NOTICES.md.
+Ordinary development, CI and Vercel builds use the committed compact assets; they do not download a model or need Python.
 
-## Privacy and operation
+If scripture or reading notes change, rebuild the corpus and index. The original pinned model source is downloaded only on the maintainer's machine (about 512 MB); it is not shipped to visitors.
 
-No analytics, logins, accounts, database, paid runtime services. Browser localStorage holds notes/settings/bookmarks. User questions are matched locally and not stored. Export notes before clearing browser data. No cloud backup or device synchronization. Service-worker cache is opportunistic; not all 700+ pages download automatically. Hosting provider usage caps apply and zero-cost operation at unlimited scale is not promised.
+```sh
+python -m pip install -r scripts/requirements-semantic.txt
+python scripts/download-semantic-source.py
+node scripts/prepare-data.mjs
+python scripts/build-semantic-model.py
+```
 
-## Domain
+If a corpus change makes `prepare-data.mjs` reject an outdated index, the updated corpus file has already been written; run the Python exporter next, then rerun validation. Copy the generated `.cache/gita-semantic/parity-fixtures.json` to `scripts/fixtures/guidance-parity.json` when regenerating weights. Commit the compact assets and fixtures, and bump the service-worker cache version when changing the runtime assets.
 
-Intended canonical URL: https://gita.arpitagarwala.com. If deploying to a different permanent domain, update metadataBase, robots.ts and sitemap.ts. The domain uses external Cloudflare DNS; add the exact CNAME target provided by Vercel for the gita subdomain, without changing the apex domain's records.
+The model source is pinned to MinishLab potion-multilingual-128M revision `73908c3438cf03b6a01bcb9611d62b23d0726f08`, under MIT. Provenance and retained license are in `public/guidance/LICENSE.txt`.
+
+## Data and privacy
+
+The inherited scripture dataset comes from Vedic Scriptures. English translation: Swami Sivananda; Hindi translation: Swami Tejomayananda. Original modern explanations cover every entry through 148 passage notes. This edition includes Arjuna's opening question in chapter 13 and therefore has 701 entries. Retain the source attributions and review THIRD_PARTY_NOTICES.md when redistributing.
+
+Questions and follow-up details exist only in the current page's memory. Notes, bookmarks and display preferences are stored on the device. Export notes before clearing browsing data. There are no tracking scripts or advertising.
+
+## Hosting
+
+The intended domain is https://gita.arpitagarwala.com. Vercel uses the checked-in static preset and build configuration. GitHub `main` triggers production builds. No server functions are needed.
