@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "framework": "nextjs",
+  "framework": null,
   "buildCommand": "npm run build",
   "outputDirectory": "out",
   "headers": [
@@ -30,5 +30,6 @@
         }
       ]
     }
-  ]
+  ],
+  "cleanUrls": true
 }
