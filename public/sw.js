@@ -1,4 +1,4 @@
-const CACHE='gita-for-life-v5';
+const CACHE='gita-for-life-v6';
 const CORE=['/','/gita.json','/icon.svg','/icons/icon-192.png','/icons/icon-512.png','/manifest.webmanifest','/offline.html'];
 self.addEventListener('install',event=>event.waitUntil((async()=>{
  const cache=await caches.open(CACHE);await cache.addAll(CORE);

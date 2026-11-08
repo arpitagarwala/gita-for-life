@@ -22,9 +22,16 @@ function ShellContent({children}:{children:React.ReactNode}) {
   const check=()=>{if(active&&registration?.waiting&&navigator.serviceWorker.controller)setUpdate(registration.waiting);};
   const found=()=>{installing?.removeEventListener('statechange',check);installing=registration?.installing??null;installing?.addEventListener('statechange',check);};
   navigator.serviceWorker.ready.then(reg=>{if(!active)return;registration=reg;check();found();reg.addEventListener('updatefound',found);});
-  let reloading=false;const changed=()=>{if(!reloading&&updateRequested.current){reloading=true;window.location.reload();}};
+  let reloading=false;let activating:ServiceWorker|null=null;
+  const reloadWhenActive=()=>{if(activating?.state==='activated'){activating.removeEventListener('statechange',reloadWhenActive);window.location.reload();}};
+  const changed=()=>{
+   if(reloading||!updateRequested.current)return;
+   reloading=true;activating=navigator.serviceWorker.controller;
+   if(!activating||activating.state==='activated')window.location.reload();
+   else activating.addEventListener('statechange',reloadWhenActive);
+  };
   navigator.serviceWorker.addEventListener('controllerchange',changed);
-  return()=>{active=false;registration?.removeEventListener('updatefound',found);installing?.removeEventListener('statechange',check);navigator.serviceWorker.removeEventListener('controllerchange',changed);};
+  return()=>{active=false;registration?.removeEventListener('updatefound',found);installing?.removeEventListener('statechange',check);activating?.removeEventListener('statechange',reloadWhenActive);navigator.serviceWorker.removeEventListener('controllerchange',changed);};
  },[]);
  useEffect(()=>{try{const d=localStorage.getItem('gita-theme');const night=d?d==='dark':window.matchMedia('(prefers-color-scheme: dark)').matches;setDark(night);document.documentElement.dataset.theme=night?'dark':'light';const bigger=localStorage.getItem('gita-large')==='true';setLarge(bigger);document.documentElement.dataset.large=String(bigger);}catch{}if('serviceWorker' in navigator)navigator.serviceWorker.register('/sw.js').catch(()=>{});},[]);
  function theme(){const next=!dark;setDark(next);document.documentElement.dataset.theme=next?'dark':'light';try{localStorage.setItem('gita-theme',next?'dark':'light');}catch{}}
