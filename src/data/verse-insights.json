@@ -1,0 +1,2806 @@
+{
+  "1.1": {
+    "en": "Possessive language exposes Dhritarashtra’s partiality before the battle begins.",
+    "hi": "‘मेरे’ का आग्रह युद्ध से पहले धृतराष्ट्र का पक्षपात दिखाता है।"
+  },
+  "1.2": {
+    "en": "Duryodhana seeks his teacher’s support after seeing an organized opponent.",
+    "hi": "संगठित विरोधी देखकर दुर्योधन गुरु का सहारा खोजता है।"
+  },
+  "1.3": {
+    "en": "Mentioning Drona’s former pupil sharpens the tension between loyalty and duty.",
+    "hi": "द्रोण के शिष्य का उल्लेख निष्ठा और कर्तव्य का तनाव बढ़ाता है।"
+  },
+  "1.4": {
+    "en": "The opposing heroes challenge Duryodhana’s assumption of easy victory.",
+    "hi": "विरोधी वीर दुर्योधन की सरल विजय की धारणा को चुनौती देते हैं।"
+  },
+  "1.5": {
+    "en": "Naming allies makes the opposing force concrete rather than anonymous.",
+    "hi": "सहयोगियों के नाम विरोधी सेना को स्पष्ट पहचान देते हैं।"
+  },
+  "1.6": {
+    "en": "Younger warriors reveal how many generations the conflict will affect.",
+    "hi": "युवा योद्धा बताते हैं कि संघर्ष कई पीढ़ियों को प्रभावित करेगा।"
+  },
+  "1.7": {
+    "en": "Duryodhana turns from assessing opponents to reassuring his own side.",
+    "hi": "दुर्योधन विरोधियों से ध्यान हटाकर अपने पक्ष को आश्वस्त करता है।"
+  },
+  "1.8": {
+    "en": "Respected leaders appear on a side whose cause still requires scrutiny.",
+    "hi": "प्रतिष्ठित नेता होने से किसी पक्ष का उद्देश्य स्वतः उचित नहीं होता।"
+  },
+  "1.9": {
+    "en": "Personal loyalty can draw skilled people into another person’s ambition.",
+    "hi": "व्यक्तिगत निष्ठा कुशल लोगों को दूसरे की महत्वाकांक्षा में खींच सकती है।"
+  },
+  "1.10": {
+    "en": "Comparing armies reveals unease beneath Duryodhana’s outward confidence.",
+    "hi": "सेनाओं की तुलना दुर्योधन के आत्मविश्वास के पीछे की आशंका खोलती है।"
+  },
+  "1.11": {
+    "en": "Protecting Bhishma becomes a shared responsibility requiring coordinated effort.",
+    "hi": "भीष्म की रक्षा के लिए सभी का संगठित प्रयास आवश्यक बताया गया है।"
+  },
+  "1.12": {
+    "en": "Bhishma’s conch answers the king’s anxiety with a public reassurance.",
+    "hi": "भीष्म का शंख राजा की आशंका के उत्तर में आश्वासन देता है।"
+  },
+  "1.13": {
+    "en": "Collective noise intensifies the movement toward confrontation.",
+    "hi": "सामूहिक घोष संघर्ष की ओर बढ़ते वातावरण को तीव्र करता है।"
+  },
+  "1.14": {
+    "en": "Krishna and Arjuna enter the scene together before their dialogue unfolds.",
+    "hi": "संवाद आरम्भ होने से पहले कृष्ण और अर्जुन साथ दिखाई देते हैं।"
+  },
+  "1.15": {
+    "en": "Distinct conches give each warrior a recognizable presence.",
+    "hi": "अलग शंख प्रत्येक योद्धा को विशिष्ट पहचान देते हैं।"
+  },
+  "1.16": {
+    "en": "The brothers’ individual signals express unity without erasing their identities.",
+    "hi": "भाइयों के अलग शंख उनकी पहचान बनाए रखते हुए एकता दिखाते हैं।"
+  },
+  "1.17": {
+    "en": "The gathering includes allies beyond the immediate family dispute.",
+    "hi": "पारिवारिक विवाद में बाहरी सहयोगी भी सम्मिलित हो चुके हैं।"
+  },
+  "1.18": {
+    "en": "Each separate conch reminds us that armies consist of individuals.",
+    "hi": "अलग-अलग शंख याद दिलाते हैं कि सेना व्यक्तियों से बनती है।"
+  },
+  "1.19": {
+    "en": "The response unsettles Dhritarashtra’s side before weapons are exchanged.",
+    "hi": "अस्त्र चलने से पहले ही यह घोष धृतराष्ट्र के पक्ष को व्याकुल करता है।"
+  },
+  "1.20": {
+    "en": "Arjuna initially prepares to fight; his hesitation develops through seeing.",
+    "hi": "अर्जुन पहले युद्ध को तैयार हैं; निकट से देखने पर दुविधा उभरती है।"
+  },
+  "1.21": {
+    "en": "Moving between the armies creates space to examine the situation directly.",
+    "hi": "सेनाओं के बीच जाना परिस्थिति को प्रत्यक्ष समझने का अवसर बनता है।"
+  },
+  "1.22": {
+    "en": "Arjuna wants to recognize the people his decision will affect.",
+    "hi": "अर्जुन उन लोगों को पहचानना चाहते हैं जिन पर निर्णय का प्रभाव पड़ेगा।"
+  },
+  "1.23": {
+    "en": "He initially judges the opposing alliance through Duryodhana’s intentions.",
+    "hi": "आरम्भ में अर्जुन विरोधी पक्ष को दुर्योधन के उद्देश्य से देखते हैं।"
+  },
+  "1.24": {
+    "en": "Krishna responds by positioning the chariot rather than immediately advising.",
+    "hi": "कृष्ण तत्काल उपदेश देने के बजाय रथ को उचित स्थान पर लाते हैं।"
+  },
+  "1.25": {
+    "en": "Seeing revered elders changes an abstract battle into a personal dilemma.",
+    "hi": "पूज्य बुजुर्गों को देखना युद्ध को व्यक्तिगत दुविधा बना देता है।"
+  },
+  "1.26": {
+    "en": "Kinship crosses the battle lines, complicating a simple division into enemies.",
+    "hi": "सम्बन्ध दोनों पक्षों में हैं; शत्रु का सरल विभाजन कठिन हो जाता है।"
+  },
+  "1.27": {
+    "en": "Compassion arises when Arjuna recognizes familiar people on both sides.",
+    "hi": "दोनों पक्षों में आत्मीय लोगों को देखकर अर्जुन में करुणा जागती है।"
+  },
+  "1.28": {
+    "en": "Arjuna names his distress instead of hiding it behind his warrior role.",
+    "hi": "अर्जुन योद्धा की भूमिका के पीछे अपनी व्यथा छिपाते नहीं हैं।"
+  },
+  "1.29": {
+    "en": "His physical symptoms show how deeply the conflict has affected him.",
+    "hi": "शारीरिक लक्षण बताते हैं कि दुविधा ने उन्हें कितना प्रभावित किया है।"
+  },
+  "1.30": {
+    "en": "The slipping bow makes inward turmoil visible in outward action.",
+    "hi": "धनुष का छूटना भीतरी व्याकुलता को बाहरी व्यवहार में दिखाता है।"
+  },
+  "1.31": {
+    "en": "Arjuna’s interpretation of omens reflects his increasingly troubled judgment.",
+    "hi": "अशुभ संकेतों की अनुभूति अर्जुन की व्याकुल दृष्टि प्रकट करती है।"
+  },
+  "1.32": {
+    "en": "Victory loses its appeal when separated from meaningful relationships.",
+    "hi": "आत्मीय सम्बन्धों से कटकर विजय का आकर्षण समाप्त हो जाता है।"
+  },
+  "1.33": {
+    "en": "Those meant to share success are now endangered by pursuing it.",
+    "hi": "जिनके लिए सफलता चाहिए थी, उसी प्रयास से वे संकट में हैं।"
+  },
+  "1.34": {
+    "en": "The family list gives specific faces to the cost of war.",
+    "hi": "सम्बन्धियों की सूची युद्ध की हानि को व्यक्तिगत रूप देती है।"
+  },
+  "1.35": {
+    "en": "Arjuna places loved ones above even the greatest imagined kingdom.",
+    "hi": "अर्जुन बड़े से बड़े राज्य से भी ऊपर आत्मीय जनों को रखते हैं।"
+  },
+  "1.36": {
+    "en": "Calling opponents aggressors does not resolve Arjuna’s moral hesitation.",
+    "hi": "विरोधियों को आततायी मानना भी अर्जुन की नैतिक दुविधा नहीं मिटाता।"
+  },
+  "1.37": {
+    "en": "He questions whether happiness can arise from destroying his own community.",
+    "hi": "वे पूछते हैं कि अपने जनों के विनाश से सुख कैसे मिलेगा।"
+  },
+  "1.38": {
+    "en": "Greed can obscure consequences for those caught in its influence.",
+    "hi": "लोभ के प्रभाव में पड़े लोग परिणामों को स्पष्ट नहीं देख पाते।"
+  },
+  "1.39": {
+    "en": "Arjuna asks whether greater awareness creates a greater responsibility to refrain.",
+    "hi": "अर्जुन पूछते हैं कि अनिष्ट समझने वालों की जिम्मेदारी क्या अधिक नहीं है।"
+  },
+  "1.40": {
+    "en": "His concern expands from individual deaths to the continuity of family life.",
+    "hi": "उनकी चिन्ता मृत्यु से आगे परिवार की परम्परा तक फैलती है।"
+  },
+  "1.41": {
+    "en": "This reflects ancient social anxieties, not a rule for judging women or ancestry.",
+    "hi": "यह प्राचीन सामाजिक आशंका है; स्त्रियों या वंश को आँकने का नियम नहीं।"
+  },
+  "1.42": {
+    "en": "Ancestral rites explain the religious weight behind Arjuna’s fear of destruction.",
+    "hi": "पूर्वजों के संस्कार परिवार-विनाश के भय का धार्मिक पक्ष बताते हैं।"
+  },
+  "1.43": {
+    "en": "He fears that war will damage inherited systems of collective responsibility.",
+    "hi": "उन्हें भय है कि युद्ध सामूहिक दायित्व की परम्पराएँ नष्ट करेगा।"
+  },
+  "1.44": {
+    "en": "Arjuna cites received belief, which the later dialogue will examine critically.",
+    "hi": "अर्जुन सुनी हुई मान्यताएँ रखते हैं; आगे संवाद उनका परीक्षण करेगा।"
+  },
+  "1.45": {
+    "en": "He now questions his own motives rather than only blaming opponents.",
+    "hi": "अब वे विरोधियों के साथ अपने उद्देश्य पर भी प्रश्न करते हैं।"
+  },
+  "1.46": {
+    "en": "His wish to remain unarmed expresses despair at the available choices.",
+    "hi": "निःशस्त्र रहने की इच्छा उपलब्ध विकल्पों से गहरी निराशा व्यक्त करती है।"
+  },
+  "1.47": {
+    "en": "Putting down the bow leaves the dilemma unresolved and opens the dialogue.",
+    "hi": "धनुष रखना समाधान नहीं; यह आगे के संवाद की भूमिका बनता है।"
+  },
+  "2.1": {
+    "en": "Krishna begins with Arjuna’s actual distress, not an abstract philosophical question.",
+    "hi": "कृष्ण संवाद का आरम्भ अर्जुन की वास्तविक व्यथा से करते हैं।"
+  },
+  "2.2": {
+    "en": "The sharp challenge asks whether withdrawal truly fits Arjuna’s deeper values.",
+    "hi": "तीखा प्रश्न जाँचता है कि पीछे हटना अर्जुन के मूल्यों के अनुकूल है या नहीं।"
+  },
+  "2.3": {
+    "en": "Courage here means recovering the capacity to judge and act responsibly.",
+    "hi": "यहाँ साहस का अर्थ विवेकपूर्ण निर्णय और जिम्मेदार कर्म की क्षमता लौटाना है।"
+  },
+  "2.4": {
+    "en": "Reverence for teachers makes Arjuna’s duty emotionally and ethically difficult.",
+    "hi": "गुरुओं का सम्मान अर्जुन के कर्तव्य को भावनात्मक और नैतिक कठिनाई देता है।"
+  },
+  "2.5": {
+    "en": "He doubts whether prosperity bought through harm could ever be enjoyed.",
+    "hi": "हानि पहुँचाकर पाया वैभव भोगने योग्य होगा या नहीं, यह प्रश्न है।"
+  },
+  "2.6": {
+    "en": "Uncertainty concerns the value of either outcome, not merely military success.",
+    "hi": "अनिश्चितता केवल जीत की नहीं, दोनों परिणामों के मूल्य की है।"
+  },
+  "2.7": {
+    "en": "Accepting a learner’s role turns defensive argument into a search for clarity.",
+    "hi": "शिष्यभाव अपनाने से तर्क का बचाव स्पष्टता की खोज में बदलता है।"
+  },
+  "2.8": {
+    "en": "External power cannot automatically heal a conflict of conscience.",
+    "hi": "बाहरी सत्ता अन्तःकरण के संघर्ष को अपने आप नहीं मिटाती।"
+  },
+  "2.9": {
+    "en": "Silence marks the limit of Arjuna’s current answers.",
+    "hi": "मौन अर्जुन के वर्तमान उत्तरों की सीमा दिखाता है।"
+  },
+  "2.10": {
+    "en": "Krishna’s composed response contrasts with the urgency of the battlefield.",
+    "hi": "युद्धभूमि की तीव्रता के बीच कृष्ण का उत्तर स्थिरता से आता है।"
+  },
+  "2.11": {
+    "en": "Wise-sounding arguments can coexist with an unexamined understanding of life.",
+    "hi": "ज्ञानपूर्ण भाषा के पीछे भी जीवन की अपरीक्षित समझ हो सकती है।"
+  },
+  "2.12": {
+    "en": "Krishna introduces continuity of the self beyond the present bodily moment.",
+    "hi": "कृष्ण वर्तमान शरीर से आगे आत्मा की निरन्तरता का विचार रखते हैं।"
+  },
+  "2.13": {
+    "en": "Changing bodily stages illustrate identity persisting through visible change.",
+    "hi": "शरीर की बदलती अवस्थाएँ परिवर्तन के बीच पहचान की निरन्तरता समझाती हैं।"
+  },
+  "2.14": {
+    "en": "Pleasure and discomfort are changing experiences rather than permanent commands.",
+    "hi": "सुख और असुविधा बदलते अनुभव हैं, स्थायी आदेश नहीं।"
+  },
+  "2.15": {
+    "en": "Steadiness means responding without being ruled by alternating pleasure and pain.",
+    "hi": "स्थिरता सुख-दुःख के उतार-चढ़ाव से संचालित हुए बिना प्रत्युत्तर देना है।"
+  },
+  "2.16": {
+    "en": "The teaching distinguishes lasting reality from appearances that come and go.",
+    "hi": "शिक्षा स्थायी सत्य और आने-जाने वाले रूपों में भेद करती है।"
+  },
+  "2.17": {
+    "en": "The pervading self is described as beyond material destruction.",
+    "hi": "व्यापक आत्मा को भौतिक विनाश से परे बताया गया है।"
+  },
+  "2.18": {
+    "en": "Bodily finitude is contrasted with the immeasurable self within it.",
+    "hi": "शरीर की सीमा की तुलना भीतर की अपरिमेय आत्मा से की गई है।"
+  },
+  "2.19": {
+    "en": "The self’s immortality is a metaphysical claim, not permission to harm bodies.",
+    "hi": "आत्मा की अमरता का कथन शरीरों को हानि पहुँचाने की अनुमति नहीं है।"
+  },
+  "2.20": {
+    "en": "Birth and death describe bodily change rather than the self’s essential nature.",
+    "hi": "जन्म-मृत्यु शरीर के परिवर्तन हैं, आत्मा के मूल स्वरूप के नहीं।"
+  },
+  "2.21": {
+    "en": "Understanding the self challenges the ego’s assumption of absolute agency.",
+    "hi": "आत्मज्ञान अहंकार की सम्पूर्ण कर्ता होने की धारणा को चुनौती देता है।"
+  },
+  "2.22": {
+    "en": "The clothing metaphor makes bodily change intelligible without equating body and self.",
+    "hi": "वस्त्र का रूपक शरीर और आत्मा को एक माने बिना परिवर्तन समझाता है।"
+  },
+  "2.23": {
+    "en": "Physical forces act on matter, while the self is described differently.",
+    "hi": "भौतिक शक्तियाँ पदार्थ को बदलती हैं; आत्मा का स्वरूप भिन्न बताया गया है।"
+  },
+  "2.24": {
+    "en": "Several images reinforce the self’s stability beyond ordinary physical categories.",
+    "hi": "अनेक विशेषण आत्मा की स्थिरता को भौतिक श्रेणियों से परे रखते हैं।"
+  },
+  "2.25": {
+    "en": "Conceptual limits invite humility about what the senses can establish.",
+    "hi": "विचार की सीमाएँ इन्द्रियों के ज्ञान के प्रति विनम्रता सिखाती हैं।"
+  },
+  "2.26": {
+    "en": "Krishna also examines change from an alternative assumption about existence.",
+    "hi": "कृष्ण अस्तित्व की दूसरी धारणा से भी परिवर्तन का परीक्षण करते हैं।"
+  },
+  "2.27": {
+    "en": "Recognizing mortality addresses inevitability without requiring emotional numbness.",
+    "hi": "मृत्यु की अनिवार्यता समझने का अर्थ संवेदनहीन होना नहीं है।"
+  },
+  "2.28": {
+    "en": "Visible life occupies only a portion of existence’s larger mystery.",
+    "hi": "दिखाई देने वाला जीवन अस्तित्व के बड़े रहस्य का एक भाग है।"
+  },
+  "2.29": {
+    "en": "Hearing about the self and realizing it are different achievements.",
+    "hi": "आत्मा के विषय में सुनना और उसका बोध होना अलग बातें हैं।"
+  },
+  "2.30": {
+    "en": "The indwelling self is affirmed in every being, not one favored group.",
+    "hi": "अविनाशी आत्मा प्रत्येक प्राणी में है, किसी विशेष समूह में ही नहीं।"
+  },
+  "2.31": {
+    "en": "Krishna addresses Arjuna’s specific warrior responsibility within the epic setting.",
+    "hi": "कृष्ण महाकाव्य के प्रसंग में अर्जुन के विशेष क्षात्र-दायित्व को सम्बोधित करते हैं।"
+  },
+  "2.32": {
+    "en": "The opportunity is framed through the period’s understanding of righteous duty.",
+    "hi": "अवसर को उस युग की धर्मसम्मत कर्तव्य की समझ में रखा गया है।"
+  },
+  "2.33": {
+    "en": "Avoidance can itself carry consequences when a genuine responsibility remains.",
+    "hi": "वास्तविक दायित्व रहते हुए उससे बचने के भी परिणाम होते हैं।"
+  },
+  "2.34": {
+    "en": "Reputation enters Krishna’s argument as a concern Arjuna already recognizes.",
+    "hi": "कृष्ण अर्जुन को परिचित सामाजिक प्रतिष्ठा के प्रश्न पर भी विचार कराते हैं।"
+  },
+  "2.35": {
+    "en": "Others may interpret retreat differently from the intention behind it.",
+    "hi": "दूसरे लोग पीछे हटने का अर्थ उसके उद्देश्य से भिन्न समझ सकते हैं।"
+  },
+  "2.36": {
+    "en": "The argument acknowledges social pressure without making insult the final moral standard.",
+    "hi": "तर्क सामाजिक दबाव स्वीकारता है; अपमान नैतिकता का अन्तिम मानदण्ड नहीं है।"
+  },
+  "2.37": {
+    "en": "Krishna asks for resolution rather than paralysis between imagined outcomes.",
+    "hi": "कृष्ण कल्पित परिणामों में जड़ होने के बजाय निश्चय करने को कहते हैं।"
+  },
+  "2.38": {
+    "en": "Equanimity concerns the quality of action amid uncertain results.",
+    "hi": "समत्व अनिश्चित परिणामों के बीच कर्म की आन्तरिक गुणवत्ता से जुड़ा है।"
+  },
+  "2.39": {
+    "en": "The dialogue moves from understanding the self to practicing that understanding.",
+    "hi": "संवाद आत्मा की समझ से उस समझ के अभ्यास की ओर बढ़ता है।"
+  },
+  "2.40": {
+    "en": "Small sincere practice has value even before complete mastery.",
+    "hi": "पूर्ण दक्षता से पहले भी थोड़ा सच्चा अभ्यास मूल्यवान है।"
+  },
+  "2.41": {
+    "en": "A clear purpose gathers attention that scattered desires would disperse.",
+    "hi": "स्पष्ट उद्देश्य उस ध्यान को एकत्र करता है जिसे अनेक इच्छाएँ बाँटती हैं।"
+  },
+  "2.42": {
+    "en": "Attractive religious language can distract when it promises only rewards.",
+    "hi": "केवल पुरस्कार का आश्वासन देने वाली आकर्षक धार्मिक भाषा भटका सकती है।"
+  },
+  "2.43": {
+    "en": "Pursuing pleasure through ritual can reproduce the desires one hopes to satisfy.",
+    "hi": "भोग के लिए कर्मकाण्ड करना उन्हीं इच्छाओं को फिर बढ़ा सकता है।"
+  },
+  "2.44": {
+    "en": "Obsession with status and enjoyment undermines inward steadiness.",
+    "hi": "प्रतिष्ठा और भोग का आग्रह भीतरी स्थिरता को कमजोर करता है।"
+  },
+  "2.45": {
+    "en": "Krishna invites freedom from compulsive acquisition and the pull of opposites.",
+    "hi": "कृष्ण संग्रह की बाध्यता और द्वन्द्वों के खिंचाव से स्वतन्त्रता सिखाते हैं।"
+  },
+  "2.46": {
+    "en": "The reservoir image distinguishes limited means from a fuller realization.",
+    "hi": "जलाशय का रूपक सीमित साधनों और व्यापक बोध में अन्तर समझाता है।"
+  },
+  "2.47": {
+    "en": "Responsibility for effort does not mean control over every outcome.",
+    "hi": "प्रयास की जिम्मेदारी का अर्थ हर परिणाम पर अधिकार नहीं है।"
+  },
+  "2.48": {
+    "en": "Balanced action continues through success and failure without surrendering care.",
+    "hi": "सफलता-असफलता में संतुलन रखकर भी कर्म की सावधानी बनी रहती है।"
+  },
+  "2.49": {
+    "en": "Wisdom examines motivation so that reward does not become the sole measure.",
+    "hi": "विवेक उद्देश्य को जाँचता है ताकि पुरस्कार ही एकमात्र माप न बने।"
+  },
+  "2.50": {
+    "en": "Skill includes ethical attention and balance, not merely efficient performance.",
+    "hi": "कौशल में दक्षता के साथ नैतिक सजगता और संतुलन भी हैं।"
+  },
+  "2.51": {
+    "en": "Letting go of possessiveness toward results weakens action’s binding force.",
+    "hi": "फल के प्रति ममता छोड़ना कर्म के बाँधने वाले प्रभाव को घटाता है।"
+  },
+  "2.52": {
+    "en": "Discrimination helps one move beyond confusion created by competing claims.",
+    "hi": "विवेक विरोधी दावों से बने भ्रम को पार करने में सहायक है।"
+  },
+  "2.53": {
+    "en": "A settled understanding matters more than accumulating contradictory instructions.",
+    "hi": "परस्पर विरोधी निर्देश जुटाने से अधिक स्थिर समझ आवश्यक है।"
+  },
+  "2.54": {
+    "en": "Arjuna asks how realization becomes visible in ordinary conduct.",
+    "hi": "अर्जुन पूछते हैं कि बोध दैनिक आचरण में कैसे दिखता है।"
+  },
+  "2.55": {
+    "en": "Inner sufficiency reduces dependence on continually satisfying new desires.",
+    "hi": "भीतरी सन्तोष हर नई इच्छा पूरी करने की निर्भरता घटाता है।"
+  },
+  "2.56": {
+    "en": "Stable wisdom is tested in adversity as well as in pleasant circumstances.",
+    "hi": "स्थिर प्रज्ञा की परीक्षा दुःख और सुख दोनों परिस्थितियों में होती है।"
+  },
+  "2.57": {
+    "en": "Events need not dictate either compulsive celebration or bitter rejection.",
+    "hi": "घटनाएँ अनिवार्य रूप से अति-उल्लास या कटु विरोध न चलाएँ।"
+  },
+  "2.58": {
+    "en": "The tortoise illustrates a deliberate capacity to withdraw attention.",
+    "hi": "कछुए का रूपक ध्यान को इच्छापूर्वक समेटने की क्षमता दिखाता है।"
+  },
+  "2.59": {
+    "en": "Outward abstinence alone may leave the inward craving unchanged.",
+    "hi": "बाहरी परहेज मात्र से भीतर की लालसा आवश्यक नहीं बदलती।"
+  },
+  "2.60": {
+    "en": "Even sincere effort remains vulnerable when sensory habits go unnoticed.",
+    "hi": "इन्द्रियों की आदतें अनदेखी रहें तो सच्चा प्रयास भी डगमगा सकता है।"
+  },
+  "2.61": {
+    "en": "A higher orientation gives restraint a meaningful direction.",
+    "hi": "उच्च लक्ष्य संयम को सार्थक दिशा देता है।"
+  },
+  "2.62": {
+    "en": "Repeated dwelling can turn a passing impression into attachment and anger.",
+    "hi": "बार-बार चिन्तन साधारण अनुभव को आसक्ति और क्रोध में बदल सकता है।"
+  },
+  "2.63": {
+    "en": "Anger damages the remembering and discrimination needed for sound judgment.",
+    "hi": "क्रोध सही निर्णय के लिए आवश्यक स्मृति और विवेक को बाधित करता है।"
+  },
+  "2.64": {
+    "en": "Self-regulation allows engagement with the world without automatic attraction or rejection.",
+    "hi": "संयम संसार में रहते हुए राग-द्वेष की स्वचालित प्रतिक्रिया घटाता है।"
+  },
+  "2.65": {
+    "en": "A quieter mind makes careful judgment more available.",
+    "hi": "शान्त मन में विवेकपूर्ण निर्णय करना अधिक सम्भव होता है।"
+  },
+  "2.66": {
+    "en": "Attention, contemplation, peace, and happiness are presented as connected capacities.",
+    "hi": "एकाग्रता, मनन, शान्ति और सुख परस्पर जुड़े बताए गए हैं।"
+  },
+  "2.67": {
+    "en": "Unwatched attention can be carried away like a boat in strong wind.",
+    "hi": "असावधान ध्यान तेज हवा में नाव की तरह बह सकता है।"
+  },
+  "2.68": {
+    "en": "Sense-restraint supports wisdom by protecting the direction of attention.",
+    "hi": "इन्द्रिय-संयम ध्यान की दिशा बचाकर प्रज्ञा को स्थिर करता है।"
+  },
+  "2.69": {
+    "en": "The waking-and-sleeping image contrasts worldly preoccupation with contemplative awareness.",
+    "hi": "जागरण और रात्रि का रूपक लौकिक व्यस्तता और आत्मबोध का अन्तर दिखाता है।"
+  },
+  "2.70": {
+    "en": "The ocean receives incoming waters without depending on them for completeness.",
+    "hi": "समुद्र नदियों को स्वीकारता है, पर पूर्णता के लिए उन पर निर्भर नहीं होता।"
+  },
+  "2.71": {
+    "en": "Peace grows as possessiveness and self-centered demand loosen.",
+    "hi": "ममता और अहंकार की माँग ढीली होने पर शान्ति बढ़ती है।"
+  },
+  "2.72": {
+    "en": "The chapter ends by presenting steadiness as an enduring spiritual orientation.",
+    "hi": "अध्याय स्थिरता को स्थायी आध्यात्मिक दिशा के रूप में रखकर समाप्त होता है।"
+  },
+  "3.1": {
+    "en": "Arjuna asks how wisdom and difficult action fit together.",
+    "hi": "अर्जुन ज्ञान और कठिन कर्म का सम्बन्ध पूछते हैं।"
+  },
+  "3.2": {
+    "en": "He requests a clear path rather than competing instructions.",
+    "hi": "वे विरोधी निर्देशों के बजाय स्पष्ट मार्ग माँगते हैं।"
+  },
+  "3.3": {
+    "en": "Different disciplines address different temperaments while seeking liberation.",
+    "hi": "भिन्न प्रवृत्तियों के लिए अलग साधन मुक्ति की ओर जाते हैं।"
+  },
+  "3.4": {
+    "en": "Simply avoiding work does not establish inward freedom.",
+    "hi": "काम से बचना मात्र भीतरी स्वतन्त्रता नहीं देता।"
+  },
+  "3.5": {
+    "en": "Life’s natural processes make complete inactivity impossible.",
+    "hi": "प्रकृति की प्रक्रियाओं में पूर्ण निष्क्रियता सम्भव नहीं है।"
+  },
+  "3.6": {
+    "en": "Outward stillness can conceal an active craving mind.",
+    "hi": "बाहरी स्थिरता के पीछे लालसा से भरा मन हो सकता है।"
+  },
+  "3.7": {
+    "en": "Mindful engagement unites inward restraint with useful work.",
+    "hi": "सजग कर्म भीतर के संयम को उपयोगी काम से जोड़ता है।"
+  },
+  "3.8": {
+    "en": "Ordinary responsibilities sustain life and deserve attention.",
+    "hi": "सामान्य दायित्व जीवन सँभालते हैं और ध्यान माँगते हैं।"
+  },
+  "3.9": {
+    "en": "Offering action redirects it beyond personal possession.",
+    "hi": "अर्पणभाव कर्म को निजी स्वार्थ से आगे ले जाता है।"
+  },
+  "3.10": {
+    "en": "Sacrifice introduces reciprocity into the story of creation.",
+    "hi": "सृष्टि-वर्णन में यज्ञ पारस्परिक सहयोग का आधार है।"
+  },
+  "3.11": {
+    "en": "Mutual nourishment replaces the fantasy of isolated self-sufficiency.",
+    "hi": "परस्पर पोषण अकेले आत्मनिर्भर होने का भ्रम हटाता है।"
+  },
+  "3.12": {
+    "en": "Receiving without contributing ignores the sources sustaining us.",
+    "hi": "बिना योगदान ग्रहण करना अपने पोषण के स्रोत भूलना है।"
+  },
+  "3.13": {
+    "en": "Sharing food places personal consumption within collective responsibility.",
+    "hi": "अन्न बाँटना व्यक्तिगत उपभोग को सामूहिक दायित्व से जोड़ता है।"
+  },
+  "3.14": {
+    "en": "The food-rain-action cycle describes life’s interdependence.",
+    "hi": "अन्न-वर्षा-कर्म का चक्र जीवन की परस्पर निर्भरता दिखाता है।"
+  },
+  "3.15": {
+    "en": "Sacred order gives meaningful action a wider foundation.",
+    "hi": "व्यापक आध्यात्मिक व्यवस्था कर्म को गहरा आधार देती है।"
+  },
+  "3.16": {
+    "en": "Pure consumption disconnects a person from sustaining reciprocity.",
+    "hi": "केवल उपभोग व्यक्ति को पोषण देने वाले सहयोग से काटता है।"
+  },
+  "3.17": {
+    "en": "Self-contentment removes the need to work for inner completion.",
+    "hi": "आत्मतृप्ति भीतर की कमी भरने के लिए कर्म की बाध्यता मिटाती है।"
+  },
+  "3.18": {
+    "en": "Freedom loosens dependence on other people for personal fulfillment.",
+    "hi": "स्वतन्त्रता निजी पूर्णता के लिए दूसरों पर निर्भरता घटाती है।"
+  },
+  "3.19": {
+    "en": "Do necessary work without fastening identity to its rewards.",
+    "hi": "आवश्यक कर्म करें, अपनी पहचान उसके पुरस्कार से न बाँधें।"
+  },
+  "3.20": {
+    "en": "Janaka illustrates realization through responsible participation in society.",
+    "hi": "जनक समाज में जिम्मेदार भागीदारी से सिद्धि का उदाहरण हैं।"
+  },
+  "3.21": {
+    "en": "Conduct teaches standards more powerfully than declarations alone.",
+    "hi": "आचरण अकेले घोषणाओं से अधिक प्रभावी आदर्श सिखाता है।"
+  },
+  "3.22": {
+    "en": "Krishna exemplifies action without a personal lack to remedy.",
+    "hi": "कृष्ण निजी अभाव के बिना कर्म करने का आदर्श रखते हैं।"
+  },
+  "3.23": {
+    "en": "Influential people’s withdrawal can shape others’ behavior.",
+    "hi": "प्रभावशाली व्यक्ति का पीछे हटना दूसरों का आचरण बदल सकता है।"
+  },
+  "3.24": {
+    "en": "Neglect of sustaining action can disturb collective life.",
+    "hi": "पोषक कर्म की उपेक्षा सामूहिक जीवन को अस्थिर कर सकती है।"
+  },
+  "3.25": {
+    "en": "Wisdom changes motivation without requiring social disengagement.",
+    "hi": "ज्ञान उद्देश्य बदलता है; समाज से कटना आवश्यक नहीं करता।"
+  },
+  "3.26": {
+    "en": "Teaching should support gradual understanding through lived example.",
+    "hi": "शिक्षा आचरण के उदाहरण से क्रमिक समझ बढ़ाए।"
+  },
+  "3.27": {
+    "en": "Ego mistakes nature’s many processes for its private achievement.",
+    "hi": "अहंकार प्रकृति की अनेक प्रक्रियाओं को अपनी उपलब्धि मानता है।"
+  },
+  "3.28": {
+    "en": "Understanding the gunas reduces possessiveness toward activity.",
+    "hi": "गुणों की समझ क्रिया के प्रति ममता घटाती है।"
+  },
+  "3.29": {
+    "en": "Greater understanding calls for patience with other learners.",
+    "hi": "अधिक समझ दूसरे सीखने वालों के प्रति धैर्य माँगती है।"
+  },
+  "3.30": {
+    "en": "Dedication frees action from ownership and anxious agitation.",
+    "hi": "समर्पण कर्म को स्वामित्व और व्यग्रता से हल्का करता है।"
+  },
+  "3.31": {
+    "en": "The teaching bears fruit when practiced with receptivity.",
+    "hi": "शिक्षा ग्रहणशीलता के साथ अभ्यास करने पर फल देती है।"
+  },
+  "3.32": {
+    "en": "Habitual dismissal prevents an instruction from transforming conduct.",
+    "hi": "निरन्तर दोष-दृष्टि शिक्षा को आचरण बदलने नहीं देती।"
+  },
+  "3.33": {
+    "en": "Temperament matters; repression alone cannot remake human nature.",
+    "hi": "प्रवृत्ति महत्त्वपूर्ण है; केवल दबाव से स्वभाव नहीं बदलता।"
+  },
+  "3.34": {
+    "en": "Attraction and aversion need not become unquestioned masters.",
+    "hi": "राग-द्वेष को बिना जाँचे अपना स्वामी न बनाएँ।"
+  },
+  "3.35": {
+    "en": "Authentic responsibility is preferable to imitation of another’s path.",
+    "hi": "दूसरे के मार्ग की नकल से अपना प्रामाणिक दायित्व बेहतर है।"
+  },
+  "3.36": {
+    "en": "Arjuna investigates why people act against their own judgment.",
+    "hi": "अर्जुन पूछते हैं कि मनुष्य अपने विवेक के विरुद्ध क्यों चलता है।"
+  },
+  "3.37": {
+    "en": "Uncontrolled desire turns into anger when obstructed.",
+    "hi": "अनियन्त्रित कामना बाधित होकर क्रोध बनती है।"
+  },
+  "3.38": {
+    "en": "Smoke and dust illustrate how clarity becomes obscured.",
+    "hi": "धुआँ और धूल स्पष्टता ढक जाने का रूपक हैं।"
+  },
+  "3.39": {
+    "en": "Feeding craving does not necessarily bring it to rest.",
+    "hi": "लालसा को पोषित करने से वह आवश्यक नहीं शान्त होती।"
+  },
+  "3.40": {
+    "en": "Desire influences perception, emotion, and reasoning together.",
+    "hi": "कामना इन्द्रिय, मन और बुद्धि तीनों को प्रभावित करती है।"
+  },
+  "3.41": {
+    "en": "Begin discipline where impressions enter and habits form.",
+    "hi": "अनुशासन वहीं आरम्भ करें जहाँ अनुभव प्रवेश करते हैं।"
+  },
+  "3.42": {
+    "en": "The hierarchy points toward awareness beyond reactive impulses.",
+    "hi": "क्रमिक विवेचन प्रतिक्रियाओं से आगे आत्मचेतना की ओर ले जाता है।"
+  },
+  "3.43": {
+    "en": "Use deeper understanding to govern difficult desires patiently.",
+    "hi": "गहरी समझ से कठिन इच्छाओं को धैर्यपूर्वक सँभालें।"
+  },
+  "4.1": {
+    "en": "Yoga is introduced as wisdom transmitted across generations.",
+    "hi": "योग पीढ़ियों से प्राप्त ज्ञान के रूप में प्रस्तुत है।"
+  },
+  "4.2": {
+    "en": "Transmission requires renewal when understanding fades over time.",
+    "hi": "समय के साथ समझ धुँधली हो तो परम्परा का नवीकरण चाहिए।"
+  },
+  "4.3": {
+    "en": "Trust and friendship create receptivity for deeper teaching.",
+    "hi": "विश्वास और मित्रता गहरी शिक्षा ग्रहण करने में सहायक हैं।"
+  },
+  "4.4": {
+    "en": "Arjuna’s question shows that devotion can include inquiry.",
+    "hi": "अर्जुन का प्रश्न दिखाता है कि भक्ति में जिज्ञासा भी है।"
+  },
+  "4.5": {
+    "en": "Krishna distinguishes divine recollection from ordinary human memory.",
+    "hi": "कृष्ण दिव्य स्मृति और सामान्य मानवीय स्मृति में भेद करते हैं।"
+  },
+  "4.6": {
+    "en": "Manifestation is described without making the divine dependent on birth.",
+    "hi": "प्राकट्य बताते हुए ईश्वर को जन्म का पराधीन नहीं कहा गया।"
+  },
+  "4.7": {
+    "en": "Divine manifestation responds to the decline of dharma.",
+    "hi": "धर्म की हानि होने पर दिव्य प्राकट्य का वर्णन है।"
+  },
+  "4.8": {
+    "en": "Restoring righteousness includes protecting those threatened by wrongdoing.",
+    "hi": "धर्म-स्थापना में अन्याय से पीड़ितों की रक्षा सम्मिलित है।"
+  },
+  "4.9": {
+    "en": "Understanding divine action changes one’s relationship with rebirth.",
+    "hi": "दिव्य कर्म का बोध पुनर्जन्म से सम्बन्ध को बदलता है।"
+  },
+  "4.10": {
+    "en": "Knowledge purifies attachment, fear, and anger through dedication.",
+    "hi": "समर्पित ज्ञान आसक्ति, भय और क्रोध को शुद्ध करता है।"
+  },
+  "4.11": {
+    "en": "Different approaches meet a divine response suited to them.",
+    "hi": "भिन्न साधनाओं को उनके अनुरूप दिव्य प्रत्युत्तर मिलता है।"
+  },
+  "4.12": {
+    "en": "Quick rewards explain some worship without exhausting its possibilities.",
+    "hi": "शीघ्र फल की चाह कुछ पूजा समझाती है, सारी भक्ति नहीं।"
+  },
+  "4.13": {
+    "en": "The historical social framework names qualities and work; dignity is not birth-ranked.",
+    "hi": "ऐतिहासिक वर्णन गुण-कर्म बताता है; मानवीय गरिमा जन्म से कम-अधिक नहीं।"
+  },
+  "4.14": {
+    "en": "Action without grasping does not bind in the usual way.",
+    "hi": "फल की पकड़ रहित कर्म सामान्य रूप से नहीं बाँधता।"
+  },
+  "4.15": {
+    "en": "Earlier seekers practiced freedom while continuing to act.",
+    "hi": "पूर्व साधकों ने कर्म करते हुए स्वतन्त्रता का अभ्यास किया।"
+  },
+  "4.16": {
+    "en": "Even thoughtful people can confuse action with non-action.",
+    "hi": "विचारशील व्यक्ति भी कर्म और अकर्म में भ्रमित हो सकते हैं।"
+  },
+  "4.17": {
+    "en": "Ethical discernment must examine action, harmful action, and inaction.",
+    "hi": "विवेक कर्म, विकर्म और अकर्म तीनों को परखे।"
+  },
+  "4.18": {
+    "en": "Outward activity and inward non-attachment can coexist.",
+    "hi": "बाहरी सक्रियता और भीतरी अनासक्ति साथ रह सकती हैं।"
+  },
+  "4.19": {
+    "en": "Insight changes the motives that otherwise bind undertaking.",
+    "hi": "बोध उन उद्देश्यों को बदलता है जो प्रयास को बाँधते हैं।"
+  },
+  "4.20": {
+    "en": "Being busy does not require inward dependence on results.",
+    "hi": "व्यस्त रहने के लिए भीतर फल पर निर्भर होना आवश्यक नहीं।"
+  },
+  "4.21": {
+    "en": "Moderation limits possessiveness while meeting bodily needs.",
+    "hi": "संयम शरीर की आवश्यकता पूरी करते हुए संग्रह घटाता है।"
+  },
+  "4.22": {
+    "en": "Freedom from envy helps balance success and failure.",
+    "hi": "ईर्ष्या से मुक्ति सफलता-असफलता में संतुलन रखती है।"
+  },
+  "4.23": {
+    "en": "Offering dissolves the possessive claim behind the deed.",
+    "hi": "यज्ञभाव कर्म के पीछे का निजी अधिकारभाव घटाता है।"
+  },
+  "4.24": {
+    "en": "The offering metaphor sees one sacred reality throughout action.",
+    "hi": "अर्पण का रूपक कर्म में एक ब्रह्म की उपस्थिति देखता है।"
+  },
+  "4.25": {
+    "en": "Sacrifice may take devotional or contemplative forms.",
+    "hi": "यज्ञ भक्तिपरक और आत्मचिन्तनपरक दोनों रूप ले सकता है।"
+  },
+  "4.26": {
+    "en": "Restraint transforms ordinary sensory engagement into conscious practice.",
+    "hi": "संयम सामान्य इन्द्रिय-व्यवहार को सजग साधना बनाता है।"
+  },
+  "4.27": {
+    "en": "Knowledge coordinates bodily energies with inward discipline.",
+    "hi": "ज्ञान शारीरिक शक्तियों को आन्तरिक अनुशासन से जोड़ता है।"
+  },
+  "4.28": {
+    "en": "Generosity, study, and discipline are different forms of offering.",
+    "hi": "दान, अध्ययन और तप अर्पण के विभिन्न रूप हैं।"
+  },
+  "4.29": {
+    "en": "Breath practices are named as disciplines, not detailed instructions.",
+    "hi": "प्राणायाम का उल्लेख साधना के रूप में है, विस्तृत निर्देश नहीं।"
+  },
+  "4.30": {
+    "en": "Measured nourishment belongs within a balanced spiritual discipline.",
+    "hi": "मर्यादित आहार संतुलित आध्यात्मिक अभ्यास का भाग है।"
+  },
+  "4.31": {
+    "en": "Participation in offering counters a purely consuming attitude.",
+    "hi": "अर्पण में भागीदारी केवल भोग की वृत्ति घटाती है।"
+  },
+  "4.32": {
+    "en": "Many disciplines share the principle of conscious action.",
+    "hi": "अनेक साधनाओं का साझा आधार सजग कर्म है।"
+  },
+  "4.33": {
+    "en": "Knowledge gives material offerings their deeper spiritual direction.",
+    "hi": "ज्ञान द्रव्यमय यज्ञ को गहरी आध्यात्मिक दिशा देता है।"
+  },
+  "4.34": {
+    "en": "Learning joins humility, honest questioning, and service.",
+    "hi": "सीखने में विनम्रता, सच्चे प्रश्न और सेवा साथ हैं।"
+  },
+  "4.35": {
+    "en": "Insight reveals connection where confusion had produced separation.",
+    "hi": "बोध वहाँ सम्बन्ध दिखाता है जहाँ भ्रम भेद दिखाता था।"
+  },
+  "4.36": {
+    "en": "The raft image refuses to make past wrongdoing permanent destiny.",
+    "hi": "नाव का रूपक पुराने दोष को स्थायी नियति नहीं मानता।"
+  },
+  "4.37": {
+    "en": "Fire symbolizes knowledge transforming the bondage of accumulated action.",
+    "hi": "अग्नि ज्ञान से संचित कर्मबन्धन बदलने का प्रतीक है।"
+  },
+  "4.38": {
+    "en": "Understanding matures through sustained practice rather than instant possession.",
+    "hi": "समझ निरन्तर अभ्यास से पकती है, तुरन्त मिल जाने से नहीं।"
+  },
+  "4.39": {
+    "en": "Trust, commitment, and restraint support the growth of knowledge.",
+    "hi": "श्रद्धा, तत्परता और संयम ज्ञान के विकास में सहायक हैं।"
+  },
+  "4.40": {
+    "en": "Paralyzing mistrust differs from the honest inquiry encouraged earlier.",
+    "hi": "पंगु करने वाला संशय पहले प्रोत्साहित सच्ची जिज्ञासा से भिन्न है।"
+  },
+  "4.41": {
+    "en": "Clear understanding reduces doubt’s power to bind action.",
+    "hi": "स्पष्ट समझ कर्म को बाँधने वाले संशय की शक्ति घटाती है।"
+  },
+  "4.42": {
+    "en": "Krishna ends by asking insight to become deliberate action.",
+    "hi": "कृष्ण अन्त में बोध को विचारपूर्वक कर्म में बदलने को कहते हैं।"
+  },
+  "5.1": {
+    "en": "Arjuna seeks a practical choice between renunciation and action.",
+    "hi": "अर्जुन संन्यास और कर्म में व्यावहारिक मार्ग पूछते हैं।"
+  },
+  "5.2": {
+    "en": "Responsible action offers an accessible route to inner freedom.",
+    "hi": "जिम्मेदार कर्म भीतरी स्वतन्त्रता का सुलभ मार्ग देता है।"
+  },
+  "5.3": {
+    "en": "True renunciation concerns craving and hostility, not appearance.",
+    "hi": "सच्चा संन्यास लालसा-द्वेष छोड़ना है, केवल बाहरी रूप नहीं।"
+  },
+  "5.4": {
+    "en": "Knowledge and action need not be competing loyalties.",
+    "hi": "ज्ञान और कर्म परस्पर विरोधी निष्ठाएँ नहीं हैं।"
+  },
+  "5.5": {
+    "en": "Different disciplines can converge in the same realization.",
+    "hi": "अलग साधनाएँ एक ही बोध में मिल सकती हैं।"
+  },
+  "5.6": {
+    "en": "Inward renunciation matures through disciplined practice.",
+    "hi": "भीतरी त्याग अनुशासित अभ्यास से परिपक्व होता है।"
+  },
+  "5.7": {
+    "en": "Recognizing shared selfhood changes how one participates in action.",
+    "hi": "साझी आत्मचेतना का बोध कर्म में भागीदारी बदलता है।"
+  },
+  "5.8": {
+    "en": "Ordinary sensations can be witnessed without claiming absolute authorship.",
+    "hi": "सामान्य अनुभूतियाँ सम्पूर्ण कर्तापन का दावा किए बिना देखी जा सकती हैं।"
+  },
+  "5.9": {
+    "en": "Bodily processes continue while possessive identification loosens.",
+    "hi": "ममता ढीली होने पर भी शारीरिक क्रियाएँ चलती रहती हैं।"
+  },
+  "5.10": {
+    "en": "The lotus illustrates participation without clinging contamination.",
+    "hi": "कमल का रूपक आसक्ति के बिना संसार में रहना दिखाता है।"
+  },
+  "5.11": {
+    "en": "Work can train character when undertaken without grasping.",
+    "hi": "पकड़ रहित कर्म चरित्र को सँवारने का अभ्यास बनता है।"
+  },
+  "5.12": {
+    "en": "Attachment to results distinguishes bondage from peaceful engagement.",
+    "hi": "फलासक्ति शान्त कर्म और बन्धन का अन्तर बनाती है।"
+  },
+  "5.13": {
+    "en": "The body-city image separates awareness from its instruments.",
+    "hi": "शरीर-नगर का रूपक चेतना और उसके साधनों में भेद करता है।"
+  },
+  "5.14": {
+    "en": "Nature’s processes challenge exaggerated personal claims of control.",
+    "hi": "प्रकृति की प्रक्रियाएँ निजी नियन्त्रण के अतिरंजित दावे घटाती हैं।"
+  },
+  "5.15": {
+    "en": "Ignorance obscures judgment without making divine reality morally partial.",
+    "hi": "अज्ञान विवेक ढकता है; इससे ईश्वर पक्षपाती नहीं हो जाते।"
+  },
+  "5.16": {
+    "en": "Knowledge illuminates rather than manufactures the spiritual reality.",
+    "hi": "ज्ञान आध्यात्मिक सत्य को बनाता नहीं, प्रकाशित करता है।"
+  },
+  "5.17": {
+    "en": "A sustained orientation gathers intellect, identity, and purpose.",
+    "hi": "स्थिर दिशा बुद्धि, आत्मबोध और उद्देश्य को एकत्र करती है।"
+  },
+  "5.18": {
+    "en": "Equal vision recognizes dignity across social and species boundaries.",
+    "hi": "समदृष्टि सामाजिक और प्राणि-भेद के पार गरिमा पहचानती है।"
+  },
+  "5.19": {
+    "en": "Equality becomes a lived understanding rather than a slogan.",
+    "hi": "समानता केवल नारा नहीं, जीती हुई समझ बनती है।"
+  },
+  "5.20": {
+    "en": "Pleasant and unpleasant events need not overturn settled wisdom.",
+    "hi": "प्रिय-अप्रिय घटनाएँ स्थिर बुद्धि को अनिवार्य रूप से न डिगाएँ।"
+  },
+  "5.21": {
+    "en": "Inner happiness reduces dependence on changing external stimulation.",
+    "hi": "भीतरी सुख बदलते बाहरी उत्तेजनों पर निर्भरता घटाता है।"
+  },
+  "5.22": {
+    "en": "Finite pleasures disappoint when asked to provide permanent fulfillment.",
+    "hi": "सीमित सुख से स्थायी तृप्ति माँगना निराशा लाता है।"
+  },
+  "5.23": {
+    "en": "Desire and anger can be noticed before becoming action.",
+    "hi": "कामना और क्रोध को कर्म बनने से पहले पहचाना जा सकता है।"
+  },
+  "5.24": {
+    "en": "Inward joy and insight define the contemplative’s freedom.",
+    "hi": "भीतरी आनन्द और बोध साधक की स्वतन्त्रता बताते हैं।"
+  },
+  "5.25": {
+    "en": "Concern for all beings accompanies spiritual purification.",
+    "hi": "सभी प्राणियों का हित आत्मशुद्धि के साथ जुड़ा है।"
+  },
+  "5.26": {
+    "en": "Freedom grows as compulsive desire and anger lose dominance.",
+    "hi": "काम-क्रोध का प्रभुत्व घटने पर स्वतन्त्रता बढ़ती है।"
+  },
+  "5.27": {
+    "en": "The passage begins a transition toward meditative discipline.",
+    "hi": "यह प्रसंग ध्यान के अनुशासन की भूमिका बनाता है।"
+  },
+  "5.28": {
+    "en": "Liberation becomes the organizing purpose of trained attention.",
+    "hi": "प्रशिक्षित ध्यान का मुख्य उद्देश्य मुक्ति बनता है।"
+  },
+  "5.29": {
+    "en": "Seeing the divine as everyone’s friend supports peace.",
+    "hi": "ईश्वर को सबका सुहृद समझना शान्ति का आधार है।"
+  },
+  "6.1": {
+    "en": "Yoga begins with duty performed without dependence on rewards.",
+    "hi": "योग फल पर निर्भर हुए बिना कर्तव्य करने से आरम्भ होता है।"
+  },
+  "6.2": {
+    "en": "Renunciation releases possessive planning rather than all intelligent intention.",
+    "hi": "त्याग ममतापूर्ण आग्रह छोड़ता है, हर समझदार योजना नहीं।"
+  },
+  "6.3": {
+    "en": "Different stages of practice call for action and quietude.",
+    "hi": "साधना की भिन्न अवस्थाओं में कर्म और शम सहायक हैं।"
+  },
+  "6.4": {
+    "en": "Maturity loosens compulsive attachment to both objects and activity.",
+    "hi": "परिपक्वता विषय और गतिविधि दोनों की बाध्य आसक्ति घटाती है।"
+  },
+  "6.5": {
+    "en": "Self-discipline can support oneself instead of deepening self-defeat.",
+    "hi": "आत्मसंयम स्वयं को गिराने के बजाय सहारा दे सकता है।"
+  },
+  "6.6": {
+    "en": "An untrained mind and a trained mind function differently.",
+    "hi": "अप्रशिक्षित और प्रशिक्षित मन की भूमिका भिन्न होती है।"
+  },
+  "6.7": {
+    "en": "Composure is practiced amid bodily discomfort and social judgment.",
+    "hi": "शारीरिक असुविधा और मान-अपमान में समता का अभ्यास होता है।"
+  },
+  "6.8": {
+    "en": "Insight loosens the power that material status holds over attention.",
+    "hi": "बोध ध्यान पर धन-प्रतिष्ठा की पकड़ घटाता है।"
+  },
+  "6.9": {
+    "en": "Even-mindedness extends beyond people who already treat us kindly.",
+    "hi": "समबुद्धि केवल अपने प्रति अच्छे लोगों तक सीमित नहीं है।"
+  },
+  "6.10": {
+    "en": "Regular quiet time reduces competing demands on attention.",
+    "hi": "नियमित एकान्त ध्यान पर अनेक माँगों का दबाव घटाता है।"
+  },
+  "6.11": {
+    "en": "A stable setting supports practice; historical materials describe its context.",
+    "hi": "स्थिर स्थान अभ्यास में सहायक है; सामग्री का वर्णन ऐतिहासिक है।"
+  },
+  "6.12": {
+    "en": "The purpose of sitting is inward clarification, not display.",
+    "hi": "बैठने का उद्देश्य अन्तःकरण की शुद्धि है, प्रदर्शन नहीं।"
+  },
+  "6.13": {
+    "en": "A steady posture reduces unnecessary distraction during contemplation.",
+    "hi": "स्थिर आसन मनन में अनावश्यक भटकाव घटाता है।"
+  },
+  "6.14": {
+    "en": "Ethical discipline and devotion accompany meditative concentration.",
+    "hi": "नैतिक अनुशासन और समर्पण ध्यान की एकाग्रता के साथ हैं।"
+  },
+  "6.15": {
+    "en": "Peace is presented as the fruit of sustained alignment.",
+    "hi": "शान्ति निरन्तर अभ्यास और समन्वय का फल बताई गई है।"
+  },
+  "6.16": {
+    "en": "Extremes of food and sleep undermine steady practice.",
+    "hi": "आहार और निद्रा की अति स्थिर साधना में बाधक है।"
+  },
+  "6.17": {
+    "en": "Balanced daily rhythms make discipline more sustainable.",
+    "hi": "संतुलित दिनचर्या अभ्यास को टिकाऊ बनाती है।"
+  },
+  "6.18": {
+    "en": "A settled mind no longer chases every available attraction.",
+    "hi": "स्थिर मन हर उपलब्ध आकर्षण के पीछे नहीं भागता।"
+  },
+  "6.19": {
+    "en": "The sheltered lamp illustrates unscattered awareness.",
+    "hi": "वायुरहित दीपक अविचल ध्यान का रूपक है।"
+  },
+  "6.20": {
+    "en": "Contemplation moves from mental agitation toward inward sufficiency.",
+    "hi": "ध्यान मानसिक चंचलता से भीतरी सन्तोष की ओर बढ़ता है।"
+  },
+  "6.21": {
+    "en": "The described joy exceeds ordinary sensory pleasure.",
+    "hi": "यह आनन्द सामान्य इन्द्रिय-सुख से आगे बताया गया है।"
+  },
+  "6.22": {
+    "en": "Deep fulfillment changes how other gains and losses are weighed.",
+    "hi": "गहरी तृप्ति लाभ-हानि को आँकने का ढंग बदलती है।"
+  },
+  "6.23": {
+    "en": "Persistence matters without turning setbacks into discouragement.",
+    "hi": "बाधा को निराशा बनाए बिना दृढ़ अभ्यास आवश्यक है।"
+  },
+  "6.24": {
+    "en": "Imagined demands can be released before they govern attention.",
+    "hi": "कल्पना से उठी माँगों को ध्यान पर शासन से पहले छोड़ा जा सकता है।"
+  },
+  "6.25": {
+    "en": "Gradual settling is encouraged instead of forced instant stillness.",
+    "hi": "जबरन तुरन्त शान्ति के बजाय धीरे-धीरे ठहरना सिखाया गया है।"
+  },
+  "6.26": {
+    "en": "Returning after distraction is the practice itself, not its failure.",
+    "hi": "भटकने पर लौटाना ही अभ्यास है, उसकी असफलता नहीं।"
+  },
+  "6.27": {
+    "en": "Quieted agitation allows a deeper quality of well-being.",
+    "hi": "शान्त रजोगुण गहरे कल्याण का अवसर देता है।"
+  },
+  "6.28": {
+    "en": "Repeated practice makes inward connection increasingly familiar.",
+    "hi": "बार-बार अभ्यास से आन्तरिक जुड़ाव सहज होता है।"
+  },
+  "6.29": {
+    "en": "Shared selfhood joins contemplation with regard for every being.",
+    "hi": "आत्मैक्य ध्यान को प्रत्येक प्राणी के सम्मान से जोड़ता है।"
+  },
+  "6.30": {
+    "en": "Seeing divine presence everywhere overcomes felt separation.",
+    "hi": "सर्वत्र दिव्य उपस्थिति देखना अलगाव की अनुभूति घटाता है।"
+  },
+  "6.31": {
+    "en": "Unity is lived within ordinary circumstances and relationships.",
+    "hi": "एकत्व सामान्य परिस्थितियों और सम्बन्धों में भी जिया जाता है।"
+  },
+  "6.32": {
+    "en": "Empathy recognizes another’s happiness and suffering as significant.",
+    "hi": "आत्मौपम्य दूसरों के सुख-दुःख को अपने समान महत्त्व देता है।"
+  },
+  "6.33": {
+    "en": "Arjuna honestly questions whether such steadiness is sustainable.",
+    "hi": "अर्जुन पूछते हैं कि ऐसी स्थिरता टिक कैसे सकती है।"
+  },
+  "6.34": {
+    "en": "The wind metaphor acknowledges the real difficulty of mental training.",
+    "hi": "वायु का रूपक मन सँभालने की वास्तविक कठिनाई स्वीकारता है।"
+  },
+  "6.35": {
+    "en": "Practice and dispassion offer complementary responses to restlessness.",
+    "hi": "अभ्यास और वैराग्य चंचलता के पूरक उपाय हैं।"
+  },
+  "6.36": {
+    "en": "Suitable methods and self-regulation make progress possible.",
+    "hi": "उचित उपाय और संयम उन्नति को सम्भव बनाते हैं।"
+  },
+  "6.37": {
+    "en": "Arjuna asks whether sincere but incomplete effort is wasted.",
+    "hi": "अर्जुन पूछते हैं कि अधूरा सच्चा प्रयास व्यर्थ तो नहीं होता।"
+  },
+  "6.38": {
+    "en": "The scattered-cloud image expresses fear of belonging nowhere.",
+    "hi": "छिन्न बादल का रूपक दोनों ओर से वंचित होने का भय है।"
+  },
+  "6.39": {
+    "en": "He brings the uncertainty into dialogue instead of concealing it.",
+    "hi": "वे संशय छिपाने के बजाय संवाद में रखते हैं।"
+  },
+  "6.40": {
+    "en": "Krishna reassures him that sincere good effort is not destroyed.",
+    "hi": "कृष्ण आश्वस्त करते हैं कि कल्याणकारी प्रयास नष्ट नहीं होता।"
+  },
+  "6.41": {
+    "en": "Favorable rebirth describes continuity within the text’s spiritual worldview.",
+    "hi": "अनुकूल पुनर्जन्म पाठ की आध्यात्मिक दृष्टि में निरन्तरता बताता है।"
+  },
+  "6.42": {
+    "en": "A supportive setting can nurture resumed spiritual learning.",
+    "hi": "सहायक वातावरण फिर आरम्भ हुई साधना को पोषण देता है।"
+  },
+  "6.43": {
+    "en": "Earlier cultivation becomes a basis for renewed effort.",
+    "hi": "पूर्व संस्कार नए प्रयास का आधार बनते हैं।"
+  },
+  "6.44": {
+    "en": "Past practice leaves momentum beyond immediate conscious intention.",
+    "hi": "पुराना अभ्यास वर्तमान संकल्प से आगे भी गति रखता है।"
+  },
+  "6.45": {
+    "en": "Maturity is portrayed as gradual development across sustained striving.",
+    "hi": "सिद्धि निरन्तर प्रयास में क्रमिक विकास के रूप में आती है।"
+  },
+  "6.46": {
+    "en": "Integrated practice joins disciplines that otherwise remain partial.",
+    "hi": "योग अलग-अलग अधूरे साधनों को समन्वित करता है।"
+  },
+  "6.47": {
+    "en": "The highest practice is characterized by inward faith and devotion.",
+    "hi": "श्रेष्ठ साधना भीतर की श्रद्धा और भक्ति से पहचानी जाती है।"
+  },
+  "7.1": {
+    "en": "Knowing the divine calls for engaged attention and refuge.",
+    "hi": "ईश्वर-बोध के लिए समर्पित ध्यान और आश्रय आवश्यक हैं।"
+  },
+  "7.2": {
+    "en": "Information and lived realization are presented together.",
+    "hi": "जानकारी और अनुभूत बोध साथ रखे गए हैं।"
+  },
+  "7.3": {
+    "en": "Deep realization is uncommon and asks for sincere effort.",
+    "hi": "गहरा बोध दुर्लभ है और सच्चा प्रयास माँगता है।"
+  },
+  "7.4": {
+    "en": "The material account includes mental and intellectual processes.",
+    "hi": "प्रकृति के वर्णन में मन और बुद्धि भी सम्मिलित हैं।"
+  },
+  "7.5": {
+    "en": "Living awareness is distinguished from the material framework.",
+    "hi": "जीवचेतना को भौतिक प्रकृति से भिन्न बताया गया है।"
+  },
+  "7.6": {
+    "en": "Both natures belong within a single source of existence.",
+    "hi": "दोनों प्रकृतियाँ अस्तित्व के एक स्रोत में स्थित हैं।"
+  },
+  "7.7": {
+    "en": "The thread image reveals unity supporting visible diversity.",
+    "hi": "सूत्र का रूपक विविध रूपों को सँभालती एकता दिखाता है।"
+  },
+  "7.8": {
+    "en": "Ordinary water and light become reminders of divine presence.",
+    "hi": "जल और प्रकाश में भी दिव्य उपस्थिति का स्मरण है।"
+  },
+  "7.9": {
+    "en": "Fragrance, warmth, and vitality extend this contemplative recognition.",
+    "hi": "सुगन्ध, तेज और जीवन में भी वही पहचान बढ़ती है।"
+  },
+  "7.10": {
+    "en": "Intelligence and excellence are gifts rather than private possessions.",
+    "hi": "बुद्धि और तेज को निजी स्वामित्व से आगे देखा गया है।"
+  },
+  "7.11": {
+    "en": "Strength is valued when freed from grasping and wrongdoing.",
+    "hi": "बल तब मूल्यवान है जब कामराग और अधर्म से मुक्त हो।"
+  },
+  "7.12": {
+    "en": "The gunas arise within the divine without exhausting it.",
+    "hi": "गुण ईश्वर से उत्पन्न हैं, पर ईश्वर उन्हीं तक सीमित नहीं।"
+  },
+  "7.13": {
+    "en": "Changing qualities can conceal awareness of their deeper source.",
+    "hi": "बदलते गुण अपने गहरे आधार का बोध ढक सकते हैं।"
+  },
+  "7.14": {
+    "en": "Refuge supports crossing the powerful habits of conditioned perception.",
+    "hi": "आश्रय गुणमय माया की प्रबल पकड़ पार करने में सहायक है।"
+  },
+  "7.15": {
+    "en": "Delusion can redirect knowledge toward destructive ends.",
+    "hi": "मोह ज्ञान को भी विनाशकारी दिशा में मोड़ सकता है।"
+  },
+  "7.16": {
+    "en": "People begin devotion from several different human needs.",
+    "hi": "मनुष्य अनेक मानवीय आवश्यकताओं से भक्ति आरम्भ करते हैं।"
+  },
+  "7.17": {
+    "en": "Devotion matures when understanding itself becomes central.",
+    "hi": "ज्ञान ही मुख्य होने पर भक्ति परिपक्व होती है।"
+  },
+  "7.18": {
+    "en": "Different beginnings are honored while wisdom receives special emphasis.",
+    "hi": "भिन्न आरम्भ सम्मानित हैं; ज्ञानी का विशेष महत्त्व है।"
+  },
+  "7.19": {
+    "en": "Mature insight recognizes one reality throughout existence.",
+    "hi": "परिपक्व बोध सम्पूर्ण अस्तित्व में एक सत्य पहचानता है।"
+  },
+  "7.20": {
+    "en": "Specific desires can narrow the horizon of worship.",
+    "hi": "विशेष कामनाएँ उपासना की दृष्टि सीमित कर सकती हैं।"
+  },
+  "7.21": {
+    "en": "Faith in diverse forms is sustained within a wider unity.",
+    "hi": "भिन्न रूपों की श्रद्धा व्यापक एकता में स्थान पाती है।"
+  },
+  "7.22": {
+    "en": "Particular worship yields results within that larger order.",
+    "hi": "विशेष उपासना के फल भी व्यापक व्यवस्था में आते हैं।"
+  },
+  "7.23": {
+    "en": "Finite rewards differ from the lasting goal of devotion.",
+    "hi": "सीमित फल भक्ति के स्थायी लक्ष्य से भिन्न हैं।"
+  },
+  "7.24": {
+    "en": "Visible manifestation does not exhaust the divine nature.",
+    "hi": "दृश्य प्राकट्य ईश्वर के पूरे स्वरूप को समाप्त नहीं करता।"
+  },
+  "7.25": {
+    "en": "Perception remains limited when appearance is taken as entirety.",
+    "hi": "दिखावे को सम्पूर्ण सत्य मानने से दृष्टि सीमित होती है।"
+  },
+  "7.26": {
+    "en": "Divine knowledge exceeds ordinary time-bound understanding.",
+    "hi": "दिव्य ज्ञान सामान्य कालबद्ध समझ से आगे है।"
+  },
+  "7.27": {
+    "en": "Desire and aversion divide experience into compulsive opposites.",
+    "hi": "इच्छा-द्वेष अनुभव को बाध्यकारी द्वन्द्वों में बाँटते हैं।"
+  },
+  "7.28": {
+    "en": "Ethical purification supports steady and less divided devotion.",
+    "hi": "सदाचार से शुद्धि दृढ़ और अखण्ड भक्ति में सहायक है।"
+  },
+  "7.29": {
+    "en": "Seeking freedom opens questions about self, reality, and action.",
+    "hi": "मुक्ति की खोज आत्मा, ब्रह्म और कर्म के प्रश्न खोलती है।"
+  },
+  "7.30": {
+    "en": "Integrated understanding prepares the next chapter’s questions about remembrance.",
+    "hi": "समन्वित समझ अगले अध्याय के स्मरण-सम्बन्धी प्रश्नों की भूमिका है।"
+  },
+  "8.1": {
+    "en": "Arjuna asks for precise meanings of important spiritual terms.",
+    "hi": "अर्जुन महत्त्वपूर्ण आध्यात्मिक शब्दों का स्पष्ट अर्थ पूछते हैं।"
+  },
+  "8.2": {
+    "en": "He connects abstract teaching with embodied life and final remembrance.",
+    "hi": "वे दर्शन को शरीर और अन्तिम स्मरण से जोड़ते हैं।"
+  },
+  "8.3": {
+    "en": "Krishna distinguishes imperishable reality, selfhood, and creative action.",
+    "hi": "कृष्ण अक्षर ब्रह्म, अध्यात्म और सृष्टिकारी कर्म का भेद बताते हैं।"
+  },
+  "8.4": {
+    "en": "Perishable beings and sacred offering belong to one larger account.",
+    "hi": "नश्वर प्राणी और यज्ञ एक व्यापक विवेचन में रखे गए हैं।"
+  },
+  "8.5": {
+    "en": "Final remembrance expresses a lifelong devotional orientation.",
+    "hi": "अन्तिम स्मरण जीवनभर की भक्तिपूर्ण दिशा से जुड़ा है।"
+  },
+  "8.6": {
+    "en": "Repeated attention shapes the tendencies carried into decisive moments.",
+    "hi": "बार-बार का ध्यान निर्णायक क्षणों की प्रवृत्ति बनाता है।"
+  },
+  "8.7": {
+    "en": "Remembering the divine accompanies action rather than replacing duty.",
+    "hi": "ईश्वर-स्मरण कर्म के साथ है, कर्तव्य का स्थानापन्न नहीं।"
+  },
+  "8.8": {
+    "en": "Habitual contemplation develops the steadiness needed for remembrance.",
+    "hi": "नियमित चिन्तन स्मरण के लिए आवश्यक स्थिरता विकसित करता है।"
+  },
+  "8.9": {
+    "en": "Divine attributes direct meditation beyond a merely limited image.",
+    "hi": "दिव्य विशेषण ध्यान को सीमित रूप से आगे ले जाते हैं।"
+  },
+  "8.10": {
+    "en": "The verse describes a yogic ideal of concentrated departure.",
+    "hi": "श्लोक एकाग्र प्रस्थान का योग-साधना सम्बन्धी आदर्श बताता है।"
+  },
+  "8.11": {
+    "en": "The imperishable goal gives restraint its larger purpose.",
+    "hi": "अक्षर लक्ष्य संयम को व्यापक उद्देश्य देता है।"
+  },
+  "8.12": {
+    "en": "Attention is gathered inward within the described yogic discipline.",
+    "hi": "वर्णित योग-साधना में ध्यान भीतर एकत्र किया जाता है।"
+  },
+  "8.13": {
+    "en": "Om and remembrance unite sound with spiritual intention.",
+    "hi": "ओंकार और स्मरण ध्वनि को आध्यात्मिक उद्देश्य से जोड़ते हैं।"
+  },
+  "8.14": {
+    "en": "Daily devotion is emphasized over a last-minute technique.",
+    "hi": "अन्तिम क्षण की युक्ति से अधिक दैनिक भक्ति महत्त्वपूर्ण है।"
+  },
+  "8.15": {
+    "en": "Liberation is contrasted with repeated impermanent and painful embodiment.",
+    "hi": "मुक्ति की तुलना बार-बार के नश्वर दुःखमय जन्म से है।"
+  },
+  "8.16": {
+    "en": "Even exalted worlds remain within the cycle of return.",
+    "hi": "ऊँचे लोक भी आवागमन के चक्र में हैं।"
+  },
+  "8.17": {
+    "en": "Vast cosmic timescales place ordinary human duration in perspective.",
+    "hi": "विशाल ब्रह्माण्डीय काल सामान्य जीवन की अवधि का परिप्रेक्ष्य देता है।"
+  },
+  "8.18": {
+    "en": "Manifestation and dissolution are pictured as cosmic day and night.",
+    "hi": "प्रकट और लीन होना ब्रह्माण्ड के दिन-रात रूप में बताया गया है।"
+  },
+  "8.19": {
+    "en": "Recurring creation highlights dependence within nature’s processes.",
+    "hi": "बार-बार की सृष्टि प्रकृति की प्रक्रियाओं में पराधीनता दिखाती है।"
+  },
+  "8.20": {
+    "en": "The eternal is distinguished from even unmanifest cosmic potential.",
+    "hi": "सनातन तत्त्व को अव्यक्त प्रकृति से भी भिन्न रखा गया है।"
+  },
+  "8.21": {
+    "en": "The highest abode names freedom beyond repeated return.",
+    "hi": "परम धाम बार-बार लौटने से परे मुक्ति का नाम है।"
+  },
+  "8.22": {
+    "en": "Undivided devotion connects the seeker with the all-pervading source.",
+    "hi": "अनन्य भक्ति साधक को सर्वव्यापक आधार से जोड़ती है।"
+  },
+  "8.23": {
+    "en": "The dialogue introduces traditional accounts of postmortem paths.",
+    "hi": "संवाद मृत्यु के बाद के मार्गों का परम्परागत वर्णन करता है।"
+  },
+  "8.24": {
+    "en": "The bright path belongs to the text’s spiritual cosmology.",
+    "hi": "प्रकाशमय मार्ग पाठ की आध्यात्मिक ब्रह्माण्ड-दृष्टि का भाग है।"
+  },
+  "8.25": {
+    "en": "The returning path contrasts temporary attainment with liberation.",
+    "hi": "लौटने वाला मार्ग अस्थायी प्राप्ति और मुक्ति में भेद करता है।"
+  },
+  "8.26": {
+    "en": "Two paths illustrate different spiritual destinations within that worldview.",
+    "hi": "उस दृष्टि में दोनों मार्ग भिन्न आध्यात्मिक गतियाँ बताते हैं।"
+  },
+  "8.27": {
+    "en": "The practical instruction is steadiness at all times.",
+    "hi": "व्यावहारिक शिक्षा हर समय योग में स्थिर रहना है।"
+  },
+  "8.28": {
+    "en": "Realization is valued beyond the accumulation of ritual merit.",
+    "hi": "बोध को कर्मकाण्ड से पुण्य-संग्रह से अधिक महत्त्व दिया गया है।"
+  },
+  "9.1": {
+    "en": "Receptivity allows knowledge and experience to deepen together.",
+    "hi": "ग्रहणशीलता से ज्ञान और अनुभव साथ गहरे होते हैं।"
+  },
+  "9.2": {
+    "en": "The teaching values direct realization joined with righteousness.",
+    "hi": "शिक्षा धर्मानुकूल प्रत्यक्ष बोध को महत्त्व देती है।"
+  },
+  "9.3": {
+    "en": "Without engagement, the transformative teaching remains unrealized.",
+    "hi": "ग्रहण और अभ्यास के बिना शिक्षा का परिवर्तन नहीं घटता।"
+  },
+  "9.4": {
+    "en": "Divine pervasion does not imply limitation to individual forms.",
+    "hi": "सर्वव्यापकता का अर्थ अलग-अलग रूपों में सीमित होना नहीं।"
+  },
+  "9.5": {
+    "en": "Paradox warns against treating divine support as physical containment.",
+    "hi": "विरोधाभास दिव्य आधार को भौतिक पात्र समझने से रोकता है।"
+  },
+  "9.6": {
+    "en": "Space and wind illustrate dependence without ordinary confinement.",
+    "hi": "आकाश-वायु का रूपक बन्धनरहित आश्रय समझाता है।"
+  },
+  "9.7": {
+    "en": "Cosmic dissolution and renewal are placed within divine nature.",
+    "hi": "प्रलय और पुनर्सृष्टि ईश्वरीय प्रकृति में रखे गए हैं।"
+  },
+  "9.8": {
+    "en": "Nature repeatedly unfolds beings under its conditioning power.",
+    "hi": "प्रकृति अपने प्रभाव में प्राणियों को बार-बार प्रकट करती है।"
+  },
+  "9.9": {
+    "en": "Non-attachment distinguishes divine action from binding personal investment.",
+    "hi": "अनासक्ति दिव्य कर्म को बन्धनकारी निजी आग्रह से अलग करती है।"
+  },
+  "9.10": {
+    "en": "Nature’s movement is understood within a sustaining divine order.",
+    "hi": "प्रकृति की गति दिव्य अधिष्ठान में समझी गई है।"
+  },
+  "9.11": {
+    "en": "Familiar appearance can hide a deeper spiritual significance.",
+    "hi": "परिचित रूप गहरा आध्यात्मिक अर्थ छिपा सकता है।"
+  },
+  "9.12": {
+    "en": "Distorted aims can empty knowledge and effort of value.",
+    "hi": "विकृत उद्देश्य ज्ञान और प्रयास को निष्फल कर सकते हैं।"
+  },
+  "9.13": {
+    "en": "Recognizing the source of life supports wholehearted devotion.",
+    "hi": "जीवन का आधार पहचानना अनन्य भक्ति बढ़ाता है।"
+  },
+  "9.14": {
+    "en": "Devotion takes sustained forms of praise, effort, and reverence.",
+    "hi": "भक्ति कीर्तन, यत्न और प्रणाम के निरन्तर रूप लेती है।"
+  },
+  "9.15": {
+    "en": "Unity, distinction, and multiplicity offer different contemplative approaches.",
+    "hi": "एकत्व, भेद और विविधता चिन्तन के भिन्न ढंग हैं।"
+  },
+  "9.16": {
+    "en": "Every element of sacrifice is placed within sacred reality.",
+    "hi": "यज्ञ के सभी अंग उसी दिव्य सत्य में देखे गए हैं।"
+  },
+  "9.17": {
+    "en": "Parental and sacred images express nurture and origin.",
+    "hi": "माता-पिता और पवित्र प्रतीक पोषण तथा मूल समझाते हैं।"
+  },
+  "9.18": {
+    "en": "The divine is described as witness, shelter, and friend.",
+    "hi": "ईश्वर साक्षी, आश्रय और सुहृद के रूप में वर्णित हैं।"
+  },
+  "9.19": {
+    "en": "Life’s apparent opposites belong within the same vast reality.",
+    "hi": "जीवन के विरोधी दिखते पक्ष उसी व्यापक सत्य में हैं।"
+  },
+  "9.20": {
+    "en": "Heaven-seeking ritual pursues elevated but still conditioned enjoyment.",
+    "hi": "स्वर्गकामना वाला यज्ञ उच्च किन्तु सीमित भोग खोजता है।"
+  },
+  "9.21": {
+    "en": "Exhaustible merit cannot provide a permanent spiritual resting place.",
+    "hi": "क्षय होने वाला पुण्य स्थायी आध्यात्मिक आश्रय नहीं देता।"
+  },
+  "9.22": {
+    "en": "Trust in divine care accompanies undivided dedication.",
+    "hi": "अनन्य समर्पण के साथ दिव्य संरक्षण का विश्वास आता है।"
+  },
+  "9.23": {
+    "en": "Diverse worship is placed within unity while understanding may differ.",
+    "hi": "भिन्न पूजा एक आधार में है; उसकी समझ अलग हो सकती है।"
+  },
+  "9.24": {
+    "en": "The recipient of sacrifice is deeper than its external form.",
+    "hi": "यज्ञ का वास्तविक भोक्ता बाहरी रूप से अधिक व्यापक है।"
+  },
+  "9.25": {
+    "en": "The object of devotion shapes the destination sought.",
+    "hi": "उपासना का लक्ष्य खोजी जाने वाली गति को दिशा देता है।"
+  },
+  "9.26": {
+    "en": "A simple offering has worth through sincere devotion.",
+    "hi": "सरल भेंट सच्ची भक्ति से मूल्यवान होती है।"
+  },
+  "9.27": {
+    "en": "Ordinary eating, giving, and working can become offerings.",
+    "hi": "सामान्य भोजन, दान और काम भी अर्पण बन सकते हैं।"
+  },
+  "9.28": {
+    "en": "Dedication changes one’s relationship with action’s consequences.",
+    "hi": "समर्पण कर्मफल से व्यक्ति का सम्बन्ध बदलता है।"
+  },
+  "9.29": {
+    "en": "Divine equality coexists with the intimacy of devotion.",
+    "hi": "ईश्वरीय समता और भक्ति की निकटता साथ हैं।"
+  },
+  "9.30": {
+    "en": "A genuine turn toward goodness opens the possibility of transformation.",
+    "hi": "सद्भाव की ओर सच्चा मोड़ परिवर्तन की सम्भावना खोलता है।"
+  },
+  "9.31": {
+    "en": "A changed resolve is expected to develop into righteous conduct.",
+    "hi": "बदला निश्चय सदाचार में विकसित होना चाहिए।"
+  },
+  "9.32": {
+    "en": "The verse opens spiritual access across historical exclusions; dignity is universal.",
+    "hi": "श्लोक ऐतिहासिक वंचनाओं के पार मुक्ति खोलता है; गरिमा सबकी समान है।"
+  },
+  "9.33": {
+    "en": "Impermanence gives urgency to sincere spiritual engagement.",
+    "hi": "अनित्यता सच्ची साधना की आवश्यकता स्पष्ट करती है।"
+  },
+  "9.34": {
+    "en": "Mind, devotion, offering, and reverence are gathered into one orientation.",
+    "hi": "मन, भक्ति, अर्पण और प्रणाम एक दिशा में जुड़ते हैं।"
+  },
+  "10.1": {
+    "en": "Krishna repeats the teaching out of concern for Arjuna’s welfare.",
+    "hi": "कृष्ण अर्जुन के हित के लिए शिक्षा फिर स्पष्ट करते हैं।"
+  },
+  "10.2": {
+    "en": "The source cannot be fully explained by its own manifestations.",
+    "hi": "मूल को केवल उसकी अभिव्यक्तियों से पूरा नहीं समझा जा सकता।"
+  },
+  "10.3": {
+    "en": "Knowing the beginningless source loosens a limited worldview.",
+    "hi": "अनादि आधार का बोध सीमित दृष्टि को खोलता है।"
+  },
+  "10.4": {
+    "en": "Mental capacities and emotional contrasts belong within existence’s diversity.",
+    "hi": "बुद्धि और भावों के द्वन्द्व अस्तित्व की विविधता में हैं।"
+  },
+  "10.5": {
+    "en": "Ethical qualities are also recognized as expressions of that source.",
+    "hi": "नैतिक गुणों को भी उसी आधार की अभिव्यक्ति माना गया है।"
+  },
+  "10.6": {
+    "en": "Ancestral sages connect spiritual vision with the world’s unfolding.",
+    "hi": "प्राचीन ऋषि आध्यात्मिक दृष्टि को सृष्टि-विकास से जोड़ते हैं।"
+  },
+  "10.7": {
+    "en": "Recognizing manifestations strengthens a more integrated spiritual understanding.",
+    "hi": "विभूतियों की पहचान समन्वित आध्यात्मिक समझ दृढ़ करती है।"
+  },
+  "10.8": {
+    "en": "Seeing a common source turns knowledge toward devotion.",
+    "hi": "एक स्रोत का बोध ज्ञान को भक्ति की ओर ले जाता है।"
+  },
+  "10.9": {
+    "en": "Shared conversation can nourish understanding and joy.",
+    "hi": "परस्पर संवाद समझ और आनन्द को पोषण देता है।"
+  },
+  "10.10": {
+    "en": "Loving steadiness is met with guidance in discrimination.",
+    "hi": "प्रेमपूर्ण स्थिरता को विवेक का मार्गदर्शन मिलता है।"
+  },
+  "10.11": {
+    "en": "The lamp symbolizes compassionate illumination of ignorance.",
+    "hi": "दीपक करुणा से अज्ञान के प्रकाशन का प्रतीक है।"
+  },
+  "10.12": {
+    "en": "Arjuna articulates the divine identity he now recognizes.",
+    "hi": "अर्जुन पहचाने हुए दिव्य स्वरूप को शब्द देते हैं।"
+  },
+  "10.13": {
+    "en": "Personal understanding is related to respected testimony.",
+    "hi": "व्यक्तिगत समझ को मान्य साक्ष्यों से जोड़ा गया है।"
+  },
+  "10.14": {
+    "en": "Trust does not pretend ordinary beings fully comprehend the divine.",
+    "hi": "श्रद्धा साधारण बुद्धि से ईश्वर को पूरा समझने का दावा नहीं।"
+  },
+  "10.15": {
+    "en": "Only the divine fully knows its own limitless nature.",
+    "hi": "ईश्वर अपने असीम स्वरूप को स्वयं पूर्णतः जानते हैं।"
+  },
+  "10.16": {
+    "en": "Arjuna asks for concrete expressions of pervasive divinity.",
+    "hi": "अर्जुन सर्वव्यापक दिव्यता की ठोस अभिव्यक्तियाँ पूछते हैं।"
+  },
+  "10.17": {
+    "en": "He wants reminders that make contemplation possible in daily perception.",
+    "hi": "वे दैनिक अनुभव में ध्यान योग्य स्मरण-चिह्न चाहते हैं।"
+  },
+  "10.18": {
+    "en": "A growing desire to understand motivates the request for detail.",
+    "hi": "समझने की बढ़ती रुचि विस्तार की प्रार्थना कराती है।"
+  },
+  "10.19": {
+    "en": "The list is selective because manifestations have no final count.",
+    "hi": "सूची चयनित है क्योंकि विभूतियों की अन्तिम संख्या नहीं।"
+  },
+  "10.20": {
+    "en": "The inward self unites origin, continuance, and ending.",
+    "hi": "अन्तःस्थित आत्मा आरम्भ, स्थिति और अन्त को जोड़ती है।"
+  },
+  "10.21": {
+    "en": "Sun and moon make celestial brilliance a contemplative reminder.",
+    "hi": "सूर्य-चन्द्र का प्रकाश दिव्य स्मरण का साधन बनता है।"
+  },
+  "10.22": {
+    "en": "Mind and consciousness extend divinity’s recognition into inward experience.",
+    "hi": "मन और चेतना भीतर के अनुभव में दिव्यता पहचानाते हैं।"
+  },
+  "10.23": {
+    "en": "Mountain, fire, and deities express distinct forms of excellence.",
+    "hi": "पर्वत, अग्नि और देवता विशिष्ट उत्कृष्टताएँ दिखाते हैं।"
+  },
+  "10.24": {
+    "en": "Wisdom, leadership, and vastness provide further contemplative symbols.",
+    "hi": "प्रज्ञा, नेतृत्व और विशालता आगे के ध्यान-प्रतीक हैं।"
+  },
+  "10.25": {
+    "en": "Sacred sound and quiet repetition offer accessible devotional anchors.",
+    "hi": "पवित्र ध्वनि और जप भक्ति के सुलभ आधार हैं।"
+  },
+  "10.26": {
+    "en": "Tree, sage, artist, and perfected seeker broaden the vision.",
+    "hi": "वृक्ष, ऋषि, कलाकार और सिद्ध दृष्टि का विस्तार करते हैं।"
+  },
+  "10.27": {
+    "en": "Mythic animals connect cultural memory with the theme of excellence.",
+    "hi": "पौराणिक पशु सांस्कृतिक स्मृति को उत्कृष्टता से जोड़ते हैं।"
+  },
+  "10.28": {
+    "en": "Power and creativity are named within the same symbolic survey.",
+    "hi": "शक्ति और सृजन इसी प्रतीकात्मक विवेचन में आते हैं।"
+  },
+  "10.29": {
+    "en": "Cosmic beings and governance illustrate order and restraint.",
+    "hi": "दिव्य पात्र और शासन व्यवस्था तथा संयम दिखाते हैं।"
+  },
+  "10.30": {
+    "en": "Prahlada shows devotion is not confined to a favored lineage.",
+    "hi": "प्रह्लाद बताते हैं कि भक्ति विशेष वंश तक सीमित नहीं।"
+  },
+  "10.31": {
+    "en": "Wind and river recognize purity and movement in nature.",
+    "hi": "वायु और नदी प्रकृति की पवित्रता तथा गति दिखाते हैं।"
+  },
+  "10.32": {
+    "en": "Self-knowledge and reasoned dialogue are honored among disciplines.",
+    "hi": "विद्याओं में आत्मज्ञान और संवाद में तर्क का सम्मान है।"
+  },
+  "10.33": {
+    "en": "Language and time point toward pervasive organizing principles.",
+    "hi": "भाषा और काल व्यापक संगठनकारी तत्त्वों की ओर संकेत हैं।"
+  },
+  "10.34": {
+    "en": "Death and flourishing both belong within the universal vision.",
+    "hi": "मृत्यु और अभ्युदय दोनों विश्व-दृष्टि में सम्मिलित हैं।"
+  },
+  "10.35": {
+    "en": "Rhythm and season make ordinary time a sacred reminder.",
+    "hi": "छन्द और ऋतु सामान्य समय को पवित्र स्मरण बनाते हैं।"
+  },
+  "10.36": {
+    "en": "Naming gambling acknowledges power’s presence without endorsing deceit.",
+    "hi": "जुए का उल्लेख प्रभाव की पहचान है, छल का समर्थन नहीं।"
+  },
+  "10.37": {
+    "en": "Excellence is illustrated through people familiar to Arjuna.",
+    "hi": "अर्जुन के परिचित व्यक्तियों में भी विभूतियाँ दिखाई गई हैं।"
+  },
+  "10.38": {
+    "en": "Discipline, strategy, silence, and knowledge express different strengths.",
+    "hi": "दण्ड, नीति, मौन और ज्ञान विभिन्न शक्तियाँ व्यक्त करते हैं।"
+  },
+  "10.39": {
+    "en": "Every living form depends upon a sustaining source.",
+    "hi": "प्रत्येक जीवनरूप पोषण देने वाले मूल पर निर्भर है।"
+  },
+  "10.40": {
+    "en": "The teaching explicitly refuses to make its list exhaustive.",
+    "hi": "शिक्षा स्पष्ट करती है कि यह सूची पूर्ण नहीं है।"
+  },
+  "10.41": {
+    "en": "Excellence can become a reminder rather than an object of envy.",
+    "hi": "उत्कृष्टता ईर्ष्या के बजाय दिव्य स्मरण का अवसर बन सकती है।"
+  },
+  "10.42": {
+    "en": "The whole universe remains smaller than the source sustaining it.",
+    "hi": "सम्पूर्ण जगत भी अपने धारणकर्ता का एक अंश है।"
+  },
+  "11.1": {
+    "en": "Arjuna acknowledges that the teaching has changed his understanding.",
+    "hi": "अर्जुन स्वीकारते हैं कि शिक्षा ने उनकी समझ बदली है।"
+  },
+  "11.2": {
+    "en": "Hearing about origin and dissolution prepares a wider vision.",
+    "hi": "उत्पत्ति-प्रलय का श्रवण व्यापक दृष्टि की तैयारी है।"
+  },
+  "11.3": {
+    "en": "He seeks direct vision beyond the account already heard.",
+    "hi": "वे सुने हुए वर्णन से आगे प्रत्यक्ष दर्शन चाहते हैं।"
+  },
+  "11.4": {
+    "en": "The request is qualified by humility about his capacity.",
+    "hi": "प्रार्थना में अपनी क्षमता के प्रति विनम्रता है।"
+  },
+  "11.5": {
+    "en": "The universal form exceeds any single familiar appearance.",
+    "hi": "विश्वरूप किसी एक परिचित आकृति से अधिक व्यापक है।"
+  },
+  "11.6": {
+    "en": "Known deities appear within a larger encompassing vision.",
+    "hi": "परिचित देवता व्यापक दर्शन में सम्मिलित दिखाई देते हैं।"
+  },
+  "11.7": {
+    "en": "Multiplicity is gathered into one field of vision.",
+    "hi": "विविधता एक दर्शन में एकत्र हो जाती है।"
+  },
+  "11.8": {
+    "en": "Ordinary sight requires transformation to apprehend this revelation.",
+    "hi": "इस दर्शन के लिए सामान्य दृष्टि से आगे दिव्य दृष्टि चाहिए।"
+  },
+  "11.9": {
+    "en": "Sanjaya marks the transition from description to revelation.",
+    "hi": "संजय वर्णन से प्रत्यक्ष दर्शन का परिवर्तन बताते हैं।"
+  },
+  "11.10": {
+    "en": "Numerous faces and eyes express immeasurable multiplicity.",
+    "hi": "अनेक मुख-नेत्र अपरिमित विविधता व्यक्त करते हैं।"
+  },
+  "11.11": {
+    "en": "Beauty and vastness appear together in the cosmic image.",
+    "hi": "विश्वचित्र में सौन्दर्य और अनन्तता साथ हैं।"
+  },
+  "11.12": {
+    "en": "A thousand suns conveys brilliance beyond ordinary comparison.",
+    "hi": "सहस्र सूर्य का रूपक साधारण तुलना से परे तेज बताता है।"
+  },
+  "11.13": {
+    "en": "Arjuna sees the many worlds held in unity.",
+    "hi": "अर्जुन अनेक जगत को एकत्व में स्थित देखते हैं।"
+  },
+  "11.14": {
+    "en": "Awe becomes bodily reverence and folded hands.",
+    "hi": "विस्मय शरीर के प्रणाम और अञ्जलि में बदलता है।"
+  },
+  "11.15": {
+    "en": "The vision includes creators, sages, and countless beings.",
+    "hi": "दर्शन में सृष्टिकर्ता, ऋषि और असंख्य प्राणी हैं।"
+  },
+  "11.16": {
+    "en": "No visible boundary contains the universal form.",
+    "hi": "विश्वरूप को कोई दृश्य सीमा नहीं बाँधती।"
+  },
+  "11.17": {
+    "en": "Familiar emblems remain within an overwhelming radiance.",
+    "hi": "परिचित चिह्न भी असह्य दिव्य तेज में दिखाई देते हैं।"
+  },
+  "11.18": {
+    "en": "Arjuna connects the vision with imperishability and dharma.",
+    "hi": "अर्जुन दर्शन को अक्षर तत्त्व और धर्म से जोड़ते हैं।"
+  },
+  "11.19": {
+    "en": "Cosmic imagery joins limitless power with pervasive illumination.",
+    "hi": "विश्वात्मक प्रतीक असीम शक्ति और व्यापक प्रकाश जोड़ते हैं।"
+  },
+  "11.20": {
+    "en": "Wonder turns unsettling when familiar boundaries disappear.",
+    "hi": "परिचित सीमाएँ मिटने पर विस्मय भयकारी भी बनता है।"
+  },
+  "11.21": {
+    "en": "Different beings respond with fear, praise, and reverence.",
+    "hi": "भिन्न प्राणी भय, स्तुति और प्रणाम से उत्तर देते हैं।"
+  },
+  "11.22": {
+    "en": "The diversity of witnesses underscores the vision’s universality.",
+    "hi": "दर्शकों की विविधता दर्शन की सार्वभौमिकता दिखाती है।"
+  },
+  "11.23": {
+    "en": "Arjuna admits his own fear within the cosmic spectacle.",
+    "hi": "अर्जुन विश्वदर्शन के बीच अपना भय स्वीकारते हैं।"
+  },
+  "11.24": {
+    "en": "Immense beauty does not prevent deep emotional overwhelm.",
+    "hi": "विशाल सौन्दर्य के साथ भी गहरी व्याकुलता सम्भव है।"
+  },
+  "11.25": {
+    "en": "Loss of orientation leads Arjuna to ask for mercy.",
+    "hi": "दिशाहीनता अर्जुन को कृपा की प्रार्थना की ओर ले जाती है।"
+  },
+  "11.26": {
+    "en": "The vision returns to particular people facing mortality.",
+    "hi": "दर्शन फिर मृत्यु के सामने खड़े विशेष व्यक्तियों तक आता है।"
+  },
+  "11.27": {
+    "en": "Terrifying imagery confronts the destruction implicit in war.",
+    "hi": "भयावह चित्र युद्ध में निहित विनाश सामने लाते हैं।"
+  },
+  "11.28": {
+    "en": "Rivers entering the ocean illustrate the movement toward dissolution.",
+    "hi": "समुद्र में नदियाँ विलय की ओर गति का रूपक हैं।"
+  },
+  "11.29": {
+    "en": "Moths entering flame emphasize the rush toward destruction.",
+    "hi": "अग्नि में पतंगे विनाश की ओर वेग दिखाते हैं।"
+  },
+  "11.30": {
+    "en": "The devouring form reveals a universe beyond personal control.",
+    "hi": "ग्रसता स्वरूप निजी नियन्त्रण से परे विश्व दिखाता है।"
+  },
+  "11.31": {
+    "en": "Arjuna asks who stands behind the terrifying appearance.",
+    "hi": "अर्जुन भयावह रूप के पीछे का तत्त्व पूछते हैं।"
+  },
+  "11.32": {
+    "en": "Time names the power of change and inevitable dissolution.",
+    "hi": "काल परिवर्तन और अनिवार्य क्षय की शक्ति का नाम है।"
+  },
+  "11.33": {
+    "en": "Being an instrument limits ego without abolishing discernment.",
+    "hi": "निमित्तभाव अहंकार सीमित करता है, विवेक समाप्त नहीं।"
+  },
+  "11.34": {
+    "en": "This instruction concerns the epic battle, not private retaliation.",
+    "hi": "यह निर्देश महाकाव्य के युद्ध का है, निजी प्रतिशोध का नहीं।"
+  },
+  "11.35": {
+    "en": "Arjuna’s trembling response shows revelation has emotional consequences.",
+    "hi": "अर्जुन का कम्पन दिखाता है कि दर्शन का भावनात्मक प्रभाव है।"
+  },
+  "11.36": {
+    "en": "He recognizes why the vision evokes both joy and fear.",
+    "hi": "वे समझते हैं कि दर्शन आनन्द और भय दोनों क्यों जगाता है।"
+  },
+  "11.37": {
+    "en": "The divine is affirmed as prior to even creation’s source.",
+    "hi": "ईश्वर को सृष्टि के मूल से भी पूर्व कहा गया है।"
+  },
+  "11.38": {
+    "en": "Knower, known, and refuge are united in the same reality.",
+    "hi": "ज्ञाता, ज्ञेय और आश्रय उसी सत्य में एकत्र हैं।"
+  },
+  "11.39": {
+    "en": "Repeated salutations express reverence beyond adequate description.",
+    "hi": "बार-बार प्रणाम वर्णन की सीमा से आगे श्रद्धा व्यक्त करते हैं।"
+  },
+  "11.40": {
+    "en": "Every direction becomes an occasion for reverence.",
+    "hi": "हर दिशा प्रणाम का अवसर बनती है।"
+  },
+  "11.41": {
+    "en": "Arjuna reconsiders casual familiarity in light of deeper recognition.",
+    "hi": "गहरी पहचान के बाद अर्जुन सहज व्यवहार पर पुनर्विचार करते हैं।"
+  },
+  "11.42": {
+    "en": "He asks forgiveness for disrespect born of unawareness.",
+    "hi": "वे अनजाने अनादर के लिए क्षमा माँगते हैं।"
+  },
+  "11.43": {
+    "en": "Teacher and parent metaphors express unequalled guidance and care.",
+    "hi": "गुरु-पिता के रूपक अद्वितीय मार्गदर्शन और स्नेह बताते हैं।"
+  },
+  "11.44": {
+    "en": "Intimate relationships become models for asking forgiveness.",
+    "hi": "आत्मीय सम्बन्ध क्षमायाचना के उदाहरण बनते हैं।"
+  },
+  "11.45": {
+    "en": "Joy and fear coexist in Arjuna’s request for reassurance.",
+    "hi": "आश्वासन की प्रार्थना में अर्जुन का आनन्द और भय साथ है।"
+  },
+  "11.46": {
+    "en": "A familiar form would make the overwhelming vision approachable.",
+    "hi": "परिचित रूप विराट दर्शन को सहज बना सकता है।"
+  },
+  "11.47": {
+    "en": "Krishna presents the revelation as grace, not acquired entitlement.",
+    "hi": "कृष्ण दर्शन को कृपा बताते हैं, अर्जित अधिकार नहीं।"
+  },
+  "11.48": {
+    "en": "External religious achievements cannot compel this particular vision.",
+    "hi": "बाहरी धार्मिक उपलब्धियाँ इस दर्शन को बाध्य नहीं कर सकतीं।"
+  },
+  "11.49": {
+    "en": "Reassurance directly addresses Arjuna’s fear and confusion.",
+    "hi": "आश्वासन सीधे अर्जुन के भय और मोह को सम्बोधित करता है।"
+  },
+  "11.50": {
+    "en": "Gentleness restores a relationship strained by overwhelming revelation.",
+    "hi": "सौम्यता विराट दर्शन से व्याकुल सम्बन्ध को सहज करती है।"
+  },
+  "11.51": {
+    "en": "Arjuna regains composure through the approachable human form.",
+    "hi": "सहज मानवीय रूप देखकर अर्जुन की स्थिरता लौटती है।"
+  },
+  "11.52": {
+    "en": "The vision’s rarity keeps it from becoming ordinary spiritual possession.",
+    "hi": "दर्शन की दुर्लभता उसे सामान्य निजी उपलब्धि नहीं बनने देती।"
+  },
+  "11.53": {
+    "en": "Ritual and austerity alone do not guarantee direct vision.",
+    "hi": "केवल कर्मकाण्ड और तप प्रत्यक्ष दर्शन सुनिश्चित नहीं करते।"
+  },
+  "11.54": {
+    "en": "Wholehearted devotion unites knowing, seeing, and entering.",
+    "hi": "अनन्य भक्ति जानने, देखने और प्रवेश को जोड़ती है।"
+  },
+  "11.55": {
+    "en": "The practical culmination includes service, non-attachment, and non-enmity.",
+    "hi": "व्यावहारिक निष्कर्ष सेवा, अनासक्ति और निर्वैरता है।"
+  },
+  "12.1": {
+    "en": "Arjuna compares personal devotion with contemplation of the unmanifest.",
+    "hi": "अर्जुन साकार भक्ति और अव्यक्त उपासना की तुलना पूछते हैं।"
+  },
+  "12.2": {
+    "en": "Krishna commends steady devotion sustained by deep trust.",
+    "hi": "कृष्ण गहरी श्रद्धा से स्थिर भक्ति की प्रशंसा करते हैं।"
+  },
+  "12.3": {
+    "en": "The unmanifest is described beyond ordinary sensory grasp.",
+    "hi": "अव्यक्त को सामान्य इन्द्रिय-पकड़ से परे बताया गया है।"
+  },
+  "12.4": {
+    "en": "Its seekers also require equality and concern for everyone.",
+    "hi": "उसके साधकों को भी समता और सर्वहित चाहिए।"
+  },
+  "12.5": {
+    "en": "Abstract contemplation can be especially difficult for embodied beings.",
+    "hi": "देहधारियों के लिए निराकार चिन्तन विशेष कठिन हो सकता है।"
+  },
+  "12.6": {
+    "en": "Offering all action gives devotion a comprehensive form.",
+    "hi": "सभी कर्मों का अर्पण भक्ति को व्यापक रूप देता है।"
+  },
+  "12.7": {
+    "en": "The ocean metaphor expresses liberation as compassionate rescue.",
+    "hi": "सागर का रूपक मुक्ति को करुणापूर्ण उद्धार बताता है।"
+  },
+  "12.8": {
+    "en": "Mind and intellect are both invited into devotion.",
+    "hi": "मन और बुद्धि दोनों भक्ति में लगाए जाते हैं।"
+  },
+  "12.9": {
+    "en": "If steadiness is difficult, repeated practice remains available.",
+    "hi": "स्थिरता कठिन हो तो नियमित अभ्यास का मार्ग खुला है।"
+  },
+  "12.10": {
+    "en": "Dedicated work offers another practical entrance into devotion.",
+    "hi": "समर्पित कर्म भक्ति में प्रवेश का दूसरा व्यावहारिक मार्ग है।"
+  },
+  "12.11": {
+    "en": "Renouncing possessive rewards is an accessible step toward peace.",
+    "hi": "फल की ममता छोड़ना शान्ति का सुलभ कदम है।"
+  },
+  "12.12": {
+    "en": "Practice deepens through understanding, contemplation, and letting go.",
+    "hi": "अभ्यास समझ, ध्यान और त्याग से गहरा होता है।"
+  },
+  "12.13": {
+    "en": "Friendliness and compassion express devotion through relationships.",
+    "hi": "मैत्री और करुणा सम्बन्धों में भक्ति व्यक्त करती हैं।"
+  },
+  "12.14": {
+    "en": "Contentment and self-discipline accompany heartfelt dedication.",
+    "hi": "सन्तोष और आत्मसंयम हार्दिक समर्पण के साथ हैं।"
+  },
+  "12.15": {
+    "en": "The devotee avoids disturbing others and cultivating reactive fear.",
+    "hi": "भक्त दूसरों को उद्विग्न करने और प्रतिक्रियात्मक भय से बचता है।"
+  },
+  "12.16": {
+    "en": "Purity and competence matter alongside freedom from demands.",
+    "hi": "अपेक्षारहित भाव के साथ शुद्धता और दक्षता भी आवश्यक हैं।"
+  },
+  "12.17": {
+    "en": "Devotion loosens compulsive elation, resentment, grief, and craving.",
+    "hi": "भक्ति बाध्य उल्लास, द्वेष, शोक और इच्छा की पकड़ घटाती है।"
+  },
+  "12.18": {
+    "en": "Equal regard is practiced amid friendship, opposition, and discomfort.",
+    "hi": "मित्रता, विरोध और असुविधा में समता का अभ्यास है।"
+  },
+  "12.19": {
+    "en": "Steadiness withstands praise and blame without demanding perfect surroundings.",
+    "hi": "स्थिरता निन्दा-स्तुति सहती है, अनुकूल वातावरण की माँग नहीं करती।"
+  },
+  "12.20": {
+    "en": "The chapter’s virtues become a lived path of faithful devotion.",
+    "hi": "अध्याय के गुण श्रद्धापूर्ण भक्ति का जीवित मार्ग बनते हैं।"
+  },
+  "13.1": {
+    "en": "Arjuna asks how experience, awareness, and knowledge differ.",
+    "hi": "अर्जुन अनुभव, चेतना और ज्ञान के भेद पूछते हैं।"
+  },
+  "13.2": {
+    "en": "The body is a field of experience that can be known.",
+    "hi": "शरीर जाना जा सकने वाला अनुभव का क्षेत्र है।"
+  },
+  "13.3": {
+    "en": "Awareness is considered across every field, not one individual alone.",
+    "hi": "चेतना केवल एक व्यक्ति में नहीं, सभी क्षेत्रों में देखी गई है।"
+  },
+  "13.4": {
+    "en": "Krishna outlines both the field’s features and its knower.",
+    "hi": "कृष्ण क्षेत्र के लक्षण और ज्ञाता दोनों समझाते हैं।"
+  },
+  "13.5": {
+    "en": "Reasoning and inherited testimony both support the inquiry.",
+    "hi": "तर्क और परम्परागत प्रमाण दोनों इस खोज में सहायक हैं।"
+  },
+  "13.6": {
+    "en": "The field includes senses, mind, intellect, and material elements.",
+    "hi": "क्षेत्र में इन्द्रिय, मन, बुद्धि और भौतिक तत्त्व हैं।"
+  },
+  "13.7": {
+    "en": "Emotions and bodily organization are also objects of experience.",
+    "hi": "भाव और शरीर का संगठन भी अनुभव के विषय हैं।"
+  },
+  "13.8": {
+    "en": "Humility and non-harm prepare the character needed for knowledge.",
+    "hi": "विनम्रता और अहिंसा ज्ञान योग्य चरित्र तैयार करती हैं।"
+  },
+  "13.9": {
+    "en": "Awareness of mortality encourages freedom from vanity and grasping.",
+    "hi": "नश्वरता का बोध अभिमान और पकड़ से मुक्ति बढ़ाता है।"
+  },
+  "13.10": {
+    "en": "Love need not become possessive identification with family and home.",
+    "hi": "स्नेह परिवार और घर से ममतामय एकरूपता होना आवश्यक नहीं।"
+  },
+  "13.11": {
+    "en": "Quiet reflection and devotion protect attention from distraction.",
+    "hi": "एकान्त मनन और भक्ति ध्यान को भटकाव से बचाते हैं।"
+  },
+  "13.12": {
+    "en": "Knowledge includes sustained orientation toward its liberating purpose.",
+    "hi": "ज्ञान में उसके मुक्तिदायी उद्देश्य का निरन्तर बोध है।"
+  },
+  "13.13": {
+    "en": "The knowable reality exceeds simple categories of existence and absence.",
+    "hi": "ज्ञेय सत्य अस्तित्व-अभाव की सरल श्रेणियों से आगे है।"
+  },
+  "13.14": {
+    "en": "Universal limbs symbolize awareness present throughout life.",
+    "hi": "सर्वत्र हाथ-पैर जीवनव्यापी चेतना के प्रतीक हैं।"
+  },
+  "13.15": {
+    "en": "The source supports sensory functions without being one sensory instrument.",
+    "hi": "आधार इन्द्रिय-क्रियाएँ सँभालता है, स्वयं कोई एक इन्द्रिय नहीं।"
+  },
+  "13.16": {
+    "en": "Subtle reality resists ordinary measures of near and far.",
+    "hi": "सूक्ष्म सत्य निकट-दूर की सामान्य माप में नहीं समाता।"
+  },
+  "13.17": {
+    "en": "Apparent division does not exhaust the underlying unity.",
+    "hi": "दिखाई देने वाला विभाजन मूल एकता को समाप्त नहीं करता।"
+  },
+  "13.18": {
+    "en": "The light metaphor joins knowledge and its object inwardly.",
+    "hi": "प्रकाश का रूपक ज्ञान और ज्ञेय को भीतर जोड़ता है।"
+  },
+  "13.19": {
+    "en": "The summary connects understanding with spiritual participation.",
+    "hi": "सारांश समझ को आध्यात्मिक प्राप्ति से जोड़ता है।"
+  },
+  "13.20": {
+    "en": "Nature and consciousness are distinguished as beginningless principles.",
+    "hi": "प्रकृति और पुरुष अनादि तत्त्वों के रूप में भिन्न हैं।"
+  },
+  "13.21": {
+    "en": "Nature concerns processes; consciousness concerns experienced pleasure and pain.",
+    "hi": "प्रकृति प्रक्रिया से, चेतना सुख-दुःख के अनुभव से जुड़ी है।"
+  },
+  "13.22": {
+    "en": "Attachment to qualities explains continuing conditioned experience.",
+    "hi": "गुणों की आसक्ति अनुभव की पराधीनता जारी रखती है।"
+  },
+  "13.23": {
+    "en": "The witnessing presence is also described as supporter and permitter.",
+    "hi": "साक्षी को भर्ता और अनुमन्ता भी कहा गया है।"
+  },
+  "13.24": {
+    "en": "Discriminating nature and awareness changes the meaning of embodiment.",
+    "hi": "प्रकृति-चेतना का भेद देहधारण की समझ बदलता है।"
+  },
+  "13.25": {
+    "en": "Meditation, inquiry, and action offer different routes to insight.",
+    "hi": "ध्यान, विवेक और कर्म बोध के भिन्न मार्ग हैं।"
+  },
+  "13.26": {
+    "en": "Receptive listening also opens a genuine spiritual path.",
+    "hi": "श्रद्धापूर्ण श्रवण भी प्रामाणिक आध्यात्मिक मार्ग खोलता है।"
+  },
+  "13.27": {
+    "en": "Living experience involves both the field and its knower.",
+    "hi": "जीवनानुभव में क्षेत्र और क्षेत्रज्ञ दोनों सम्मिलित हैं।"
+  },
+  "13.28": {
+    "en": "Equal divine presence is recognized within perishable forms.",
+    "hi": "नश्वर रूपों में समान ईश्वरीय उपस्थिति पहचानी जाती है।"
+  },
+  "13.29": {
+    "en": "Seeing shared presence discourages harming oneself through divided vision.",
+    "hi": "समान उपस्थिति का बोध भेद-दृष्टि से आत्महानि रोकता है।"
+  },
+  "13.30": {
+    "en": "Nature acts while the self is described as non-acting.",
+    "hi": "प्रकृति क्रिया करती है; आत्मा अकर्ता कही गई है।"
+  },
+  "13.31": {
+    "en": "Many beings are understood as arising within one reality.",
+    "hi": "अनेक प्राणी एक सत्य से विकसित समझे गए हैं।"
+  },
+  "13.32": {
+    "en": "The self’s presence in a body does not imply contamination.",
+    "hi": "शरीर में आत्मा की उपस्थिति उसका लिप्त होना नहीं है।"
+  },
+  "13.33": {
+    "en": "Space illustrates pervasion without acquiring every object’s properties.",
+    "hi": "आकाश व्यापक होकर भी वस्तुओं के गुण नहीं ग्रहण करता।"
+  },
+  "13.34": {
+    "en": "One sun illuminates many forms, illustrating awareness’s revealing role.",
+    "hi": "एक सूर्य अनेक रूप प्रकाशित करता है; चेतना भी प्रकाशक है।"
+  },
+  "13.35": {
+    "en": "Discrimination between experience and awareness points toward liberation.",
+    "hi": "अनुभव और चेतना का विवेक मुक्ति की ओर संकेत करता है।"
+  },
+  "14.1": {
+    "en": "The chapter revisits knowledge as a means of liberation.",
+    "hi": "अध्याय ज्ञान को मुक्ति के साधन के रूप में फिर रखता है।"
+  },
+  "14.2": {
+    "en": "Realization loosens dependence on cosmic cycles of change.",
+    "hi": "बोध सृष्टि-प्रलय के चक्रों की पराधीनता घटाता है।"
+  },
+  "14.3": {
+    "en": "The cosmic womb symbolizes the shared ground of manifestation.",
+    "hi": "ब्रह्माण्डीय गर्भ प्राकट्य के साझा आधार का प्रतीक है।"
+  },
+  "14.4": {
+    "en": "All embodied forms share a common creative source.",
+    "hi": "सभी देहधारी रूपों का सृजनात्मक मूल एक है।"
+  },
+  "14.5": {
+    "en": "Three qualities describe conditioning rather than fixed human identities.",
+    "hi": "तीन गुण प्रभाव बताते हैं, मनुष्य की स्थायी पहचान नहीं।"
+  },
+  "14.6": {
+    "en": "Even clarity can bind when happiness and knowledge become possessions.",
+    "hi": "सुख-ज्ञान की आसक्ति हो तो निर्मलता भी बाँध सकती है।"
+  },
+  "14.7": {
+    "en": "Restless desire binds through compulsive activity.",
+    "hi": "बेचैन कामना कर्म की बाध्यता से बाँधती है।"
+  },
+  "14.8": {
+    "en": "Inertia obscures judgment through negligence and dullness.",
+    "hi": "तमस् प्रमाद और जड़ता से विवेक ढकता है।"
+  },
+  "14.9": {
+    "en": "Each guna binds through a distinct pattern of attachment.",
+    "hi": "हर गुण आसक्ति के अलग ढंग से बाँधता है।"
+  },
+  "14.10": {
+    "en": "The gunas fluctuate rather than ruling with permanent exclusivity.",
+    "hi": "गुण बदलते रहते हैं, किसी एक का स्थायी शासन नहीं।"
+  },
+  "14.11": {
+    "en": "Clear perception can signal the predominance of sattva.",
+    "hi": "स्पष्ट बोध सत्त्व की प्रधानता का संकेत है।"
+  },
+  "14.12": {
+    "en": "Restlessness and greed signal rajasic predominance.",
+    "hi": "बेचैनी और लोभ रजस् की प्रधानता दिखाते हैं।"
+  },
+  "14.13": {
+    "en": "Confusion and neglect signal tamasic predominance.",
+    "hi": "भ्रम और प्रमाद तमस् की प्रधानता बताते हैं।"
+  },
+  "14.14": {
+    "en": "Sattvic continuity is described through the text’s rebirth framework.",
+    "hi": "सात्त्विक गति पाठ की पुनर्जन्म-दृष्टि में बताई गई है।"
+  },
+  "14.15": {
+    "en": "Habitual qualities shape future tendencies within that framework.",
+    "hi": "उस दृष्टि में लगातार गुण आगे की प्रवृत्तियाँ बनाते हैं।"
+  },
+  "14.16": {
+    "en": "Different motivations bear different experiential fruits.",
+    "hi": "भिन्न उद्देश्यों से अनुभव के भिन्न फल आते हैं।"
+  },
+  "14.17": {
+    "en": "Clarity, greed, and negligence reveal contrasting inner conditions.",
+    "hi": "ज्ञान, लोभ और प्रमाद भिन्न आन्तरिक दशाएँ प्रकट करते हैं।"
+  },
+  "14.18": {
+    "en": "The imagery of movement describes spiritual tendencies, not social worth.",
+    "hi": "गति का वर्णन आध्यात्मिक प्रवृत्ति है, सामाजिक मूल्यांकन नहीं।"
+  },
+  "14.19": {
+    "en": "Witnessing qualities reduces the ego’s claim to total authorship.",
+    "hi": "गुणों का साक्षीभाव अहंकार का सम्पूर्ण कर्तापन घटाता है।"
+  },
+  "14.20": {
+    "en": "Freedom means going beyond identification with all three qualities.",
+    "hi": "मुक्ति तीनों गुणों से तादात्म्य के पार जाना है।"
+  },
+  "14.21": {
+    "en": "Arjuna asks how transcendence becomes recognizable in behavior.",
+    "hi": "अर्जुन पूछते हैं कि गुणातीत का आचरण कैसे पहचाना जाए।"
+  },
+  "14.22": {
+    "en": "Neither hostility nor craving need greet changing inner states.",
+    "hi": "बदलती भीतरी अवस्थाओं से न द्वेष हो, न आग्रह।"
+  },
+  "14.23": {
+    "en": "Witnessing allows qualities to move without overwhelming awareness.",
+    "hi": "साक्षीभाव गुणों की गति में चेतना को स्थिर रखता है।"
+  },
+  "14.24": {
+    "en": "Equanimity includes material values and personal preferences.",
+    "hi": "समता धन-मूल्य और निजी पसन्द तक फैली है।"
+  },
+  "14.25": {
+    "en": "Friendship and hostility no longer dictate inward identity.",
+    "hi": "मित्रता और विरोध भीतर की पहचान को संचालित नहीं करते।"
+  },
+  "14.26": {
+    "en": "Steady devotion is offered as a way beyond conditioning.",
+    "hi": "अव्यभिचारी भक्ति गुणबन्धन पार करने का मार्ग है।"
+  },
+  "14.27": {
+    "en": "The divine grounds immortality, enduring dharma, and fulfillment.",
+    "hi": "ईश्वर अमृतत्व, सनातन धर्म और पूर्ण सुख का आधार हैं।"
+  },
+  "15.1": {
+    "en": "The inverted tree pictures worldly existence rooted beyond appearance.",
+    "hi": "उल्टा वृक्ष दृश्य जगत का अदृश्य आधार दिखाता है।"
+  },
+  "15.2": {
+    "en": "Qualities and desires continually nourish its extending branches.",
+    "hi": "गुण और इच्छाएँ उसकी फैलती शाखाओं को पोषण देते हैं।"
+  },
+  "15.3": {
+    "en": "Non-attachment cuts entanglement rather than attacking the physical world.",
+    "hi": "अनासक्ति उलझाव काटती है, भौतिक संसार पर आक्रमण नहीं करती।"
+  },
+  "15.4": {
+    "en": "Release from entanglement turns attention toward the original source.",
+    "hi": "उलझाव से मुक्ति ध्यान को मूल स्रोत की ओर मोड़ती है।"
+  },
+  "15.5": {
+    "en": "Humility and freedom from craving prepare the enduring goal.",
+    "hi": "विनम्रता और कामनामुक्ति अविनाशी लक्ष्य की तैयारी हैं।"
+  },
+  "15.6": {
+    "en": "The highest abode is described beyond borrowed physical illumination.",
+    "hi": "परम धाम बाहरी भौतिक प्रकाश से परे बताया गया है।"
+  },
+  "15.7": {
+    "en": "The living self participates in a deeper spiritual reality.",
+    "hi": "जीवात्मा गहरे आध्यात्मिक सत्य से जुड़ी है।"
+  },
+  "15.8": {
+    "en": "Wind carrying fragrance illustrates continuity through bodily transition.",
+    "hi": "सुगन्ध ले जाती वायु देहान्तरण की निरन्तरता समझाती है।"
+  },
+  "15.9": {
+    "en": "Sensory experience depends on mind as well as physical faculties.",
+    "hi": "इन्द्रियानुभव में शारीरिक साधनों के साथ मन भी आवश्यक है।"
+  },
+  "15.10": {
+    "en": "The eye of knowledge sees what habit misses.",
+    "hi": "ज्ञान-दृष्टि वह पहचानती है जो आदत से छूट जाता है।"
+  },
+  "15.11": {
+    "en": "Effort needs inward refinement to become clear seeing.",
+    "hi": "प्रयास को स्पष्ट बोध बनने के लिए अन्तःशुद्धि चाहिए।"
+  },
+  "15.12": {
+    "en": "Natural light is contemplated as an expression of divine radiance.",
+    "hi": "प्राकृतिक प्रकाश दिव्य तेज की अभिव्यक्ति माना गया है।"
+  },
+  "15.13": {
+    "en": "Earth’s sustaining power becomes an occasion for gratitude.",
+    "hi": "पृथ्वी की धारणशक्ति कृतज्ञता का अवसर बनती है।"
+  },
+  "15.14": {
+    "en": "Digestion connects sacred presence with ordinary bodily life.",
+    "hi": "पाचन का वर्णन दिव्य उपस्थिति को सामान्य शरीर से जोड़ता है।"
+  },
+  "15.15": {
+    "en": "Memory and knowledge point inward toward a shared source.",
+    "hi": "स्मृति और ज्ञान भीतर के साझा आधार की ओर संकेत हैं।"
+  },
+  "15.16": {
+    "en": "Changing existence is distinguished from the imperishable principle.",
+    "hi": "बदलते अस्तित्व को अक्षर तत्त्व से अलग बताया गया है।"
+  },
+  "15.17": {
+    "en": "The Supreme Person sustains and exceeds both categories.",
+    "hi": "पुरुषोत्तम दोनों श्रेणियों को धारण करते और उनसे आगे हैं।"
+  },
+  "15.18": {
+    "en": "Supremacy names transcendence of perishable and imperishable alike.",
+    "hi": "उत्तमता क्षर और अक्षर दोनों से परे स्थिति बताती है।"
+  },
+  "15.19": {
+    "en": "Knowing this source gathers devotion into wholehearted participation.",
+    "hi": "इस मूल का बोध भक्ति को सम्पूर्ण समर्पण बनाता है।"
+  },
+  "15.20": {
+    "en": "Understanding culminates in a meaningful fulfillment of life’s work.",
+    "hi": "समझ जीवन के कर्म की सार्थक पूर्णता में परिणत होती है।"
+  },
+  "16.1": {
+    "en": "Courage and purity are joined with study and generosity.",
+    "hi": "निर्भयता और शुद्धता अध्ययन तथा दान से जुड़ी हैं।"
+  },
+  "16.2": {
+    "en": "Truthfulness is accompanied by compassion and gentleness.",
+    "hi": "सत्य के साथ करुणा और कोमलता भी आवश्यक हैं।"
+  },
+  "16.3": {
+    "en": "Strength and forgiveness belong together in mature character.",
+    "hi": "परिपक्व चरित्र में तेज और क्षमा साथ होते हैं।"
+  },
+  "16.4": {
+    "en": "Arrogance and harshness distort the use of personal power.",
+    "hi": "अहंकार और कठोरता निजी शक्ति के प्रयोग को बिगाड़ते हैं।"
+  },
+  "16.5": {
+    "en": "Liberating tendencies can be cultivated rather than merely admired.",
+    "hi": "मुक्तिदायी गुण केवल सराहे नहीं, विकसित किए जा सकते हैं।"
+  },
+  "16.6": {
+    "en": "The contrast examines patterns of conduct, not immutable human species.",
+    "hi": "भेद आचरण की प्रवृत्तियों का है, स्थायी मानवीय जातियों का नहीं।"
+  },
+  "16.7": {
+    "en": "Losing ethical discrimination damages both restraint and responsibility.",
+    "hi": "नैतिक विवेक खोने से संयम और दायित्व दोनों बिगड़ते हैं।"
+  },
+  "16.8": {
+    "en": "The criticized worldview denies accountability; it is not every skeptic’s identity.",
+    "hi": "आलोचना उत्तरदायित्व नकारने की है; हर संशयशील की पहचान नहीं।"
+  },
+  "16.9": {
+    "en": "A destructive outlook becomes dangerous when enacted through power.",
+    "hi": "विनाशकारी दृष्टि शक्ति से लागू होकर खतरनाक बनती है।"
+  },
+  "16.10": {
+    "en": "Insatiable desire combines with pride to justify harmful aims.",
+    "hi": "अतृप्त इच्छा और अभिमान हानिकारक लक्ष्य उचित ठहराते हैं।"
+  },
+  "16.11": {
+    "en": "Treating enjoyment as everything produces endless anxious pursuit.",
+    "hi": "भोग को सब कुछ मानना अन्तहीन व्यग्रता पैदा करता है।"
+  },
+  "16.12": {
+    "en": "Craving and anger can rationalize unjust acquisition.",
+    "hi": "काम-क्रोध अन्यायपूर्ण संग्रह के बहाने बना सकते हैं।"
+  },
+  "16.13": {
+    "en": "Possessive inner speech continually projects the next acquisition.",
+    "hi": "ममतापूर्ण भीतरी भाषा अगली प्राप्ति की कल्पना करती रहती है।"
+  },
+  "16.14": {
+    "en": "Domination masquerades as happiness when ego remains unexamined.",
+    "hi": "अपरखा अहंकार दूसरों पर शासन को सुख मानता है।"
+  },
+  "16.15": {
+    "en": "Status and charity can both become vehicles of vanity.",
+    "hi": "प्रतिष्ठा और दान दोनों अभिमान के साधन बन सकते हैं।"
+  },
+  "16.16": {
+    "en": "Conflicting fantasies trap attention in increasing confusion.",
+    "hi": "विरोधी कल्पनाएँ ध्यान को बढ़ते मोह में फँसाती हैं।"
+  },
+  "16.17": {
+    "en": "Ritual display loses meaning when humility and sincerity disappear.",
+    "hi": "विनम्रता और सच्चाई बिना कर्मकाण्ड प्रदर्शन बन जाता है।"
+  },
+  "16.18": {
+    "en": "Contempt for others denies the sacred presence within life.",
+    "hi": "दूसरों के तिरस्कार में जीवन की दिव्य उपस्थिति नकारी जाती है।"
+  },
+  "16.19": {
+    "en": "Severe karmic imagery portrays the consequences of entrenched cruelty.",
+    "hi": "कठोर कर्मफल-वर्णन गहरी क्रूरता के परिणाम दिखाता है।"
+  },
+  "16.20": {
+    "en": "Repeated harmful patterns deepen separation from liberating understanding.",
+    "hi": "बार-बार का हानिकारक आचरण मुक्तिदायी समझ से दूर करता है।"
+  },
+  "16.21": {
+    "en": "Desire, anger, and greed are named as three destructive gateways.",
+    "hi": "काम, क्रोध और लोभ विनाश के तीन द्वार हैं।"
+  },
+  "16.22": {
+    "en": "Leaving those patterns creates room for constructive living.",
+    "hi": "इन प्रवृत्तियों को छोड़ना कल्याणकारी जीवन का अवसर देता है।"
+  },
+  "16.23": {
+    "en": "Unexamined impulse is an unreliable guide to fulfillment.",
+    "hi": "बिना जाँची इच्छा पूर्णता की विश्वसनीय मार्गदर्शक नहीं है।"
+  },
+  "16.24": {
+    "en": "Reflective ethical guidance should inform what is done or avoided.",
+    "hi": "क्या करें-क्या छोड़ें, इसमें विचारशील धर्मबोध मार्गदर्शन दे।"
+  },
+  "17.1": {
+    "en": "Arjuna asks how sincere faith relates to ethical guidance.",
+    "hi": "अर्जुन सच्ची श्रद्धा और शास्त्रीय मार्गदर्शन का सम्बन्ध पूछते हैं।"
+  },
+  "17.2": {
+    "en": "Faith takes different forms according to inner conditioning.",
+    "hi": "भीतरी संस्कार के अनुसार श्रद्धा के अलग रूप होते हैं।"
+  },
+  "17.3": {
+    "en": "What a person trusts shapes character and conduct.",
+    "hi": "व्यक्ति की श्रद्धा चरित्र और आचरण को आकार देती है।"
+  },
+  "17.4": {
+    "en": "Objects of worship reflect the qualities shaping aspiration.",
+    "hi": "उपास्य व्यक्ति की आकांक्षा को गढ़ने वाले गुण दिखाते हैं।"
+  },
+  "17.5": {
+    "en": "Severe discipline can conceal vanity and uncontrolled desire.",
+    "hi": "कठोर तप के पीछे अभिमान और अनियन्त्रित इच्छा छिप सकती है।"
+  },
+  "17.6": {
+    "en": "Self-torture is criticized rather than treated as spiritual superiority.",
+    "hi": "आत्मपीड़न की निन्दा है, उसे आध्यात्मिक श्रेष्ठता नहीं माना गया।"
+  },
+  "17.7": {
+    "en": "Everyday choices reveal qualities also present in religious action.",
+    "hi": "दैनिक चुनाव वही गुण दिखाते हैं जो धार्मिक कर्म में हैं।"
+  },
+  "17.8": {
+    "en": "Nourishing food is praised within this traditional framework.",
+    "hi": "इस परम्परागत विवेचन में पोषक आहार की प्रशंसा है।"
+  },
+  "17.9": {
+    "en": "Excessive stimulation is contrasted with balanced nourishment.",
+    "hi": "अत्यधिक उत्तेजक आहार की तुलना संतुलित पोषण से है।"
+  },
+  "17.10": {
+    "en": "Neglected and spoiled food illustrates disregard for care.",
+    "hi": "बासी-सड़ा आहार सावधानी की उपेक्षा का उदाहरण है।"
+  },
+  "17.11": {
+    "en": "Duty-centered offering releases the demand for personal reward.",
+    "hi": "कर्तव्यभाव का यज्ञ निजी पुरस्कार की माँग छोड़ता है।"
+  },
+  "17.12": {
+    "en": "Reward-seeking display changes the quality of an offering.",
+    "hi": "फल और दिखावे की चाह अर्पण की गुणवत्ता बदलती है।"
+  },
+  "17.13": {
+    "en": "Offering without care, sharing, or sincerity loses its purpose.",
+    "hi": "सावधानी, बाँटने और श्रद्धा बिना यज्ञ का उद्देश्य खोता है।"
+  },
+  "17.14": {
+    "en": "Bodily discipline includes respect, honesty, and non-harm.",
+    "hi": "शारीरिक तप में सम्मान, सरलता और अहिंसा हैं।"
+  },
+  "17.15": {
+    "en": "Speech should be truthful, beneficial, and considerate.",
+    "hi": "वाणी सत्य, हितकारी और संवेदनशील हो।"
+  },
+  "17.16": {
+    "en": "Mental discipline cultivates serenity, kindness, and clean intention.",
+    "hi": "मानसिक तप शान्ति, सौम्यता और शुद्ध उद्देश्य विकसित करता है।"
+  },
+  "17.17": {
+    "en": "Sincere discipline is practiced without bargaining for reward.",
+    "hi": "सच्चा तप पुरस्कार का सौदा किए बिना होता है।"
+  },
+  "17.18": {
+    "en": "Honor-seeking discipline depends on unstable public approval.",
+    "hi": "सम्मान के लिए तप अस्थिर जनस्वीकृति पर निर्भर है।"
+  },
+  "17.19": {
+    "en": "Discipline that injures oneself or others defeats its purpose.",
+    "hi": "स्वयं या दूसरों को पीड़ा देने वाला तप उद्देश्य खोता है।"
+  },
+  "17.20": {
+    "en": "Good giving considers need, timing, and freedom from repayment.",
+    "hi": "सात्त्विक दान आवश्यकता, समय और प्रत्युपकाररहित भाव देखता है।"
+  },
+  "17.21": {
+    "en": "Reluctant or transactional giving remains bound to personal return.",
+    "hi": "अनिच्छा या सौदे का दान निजी लाभ से बँधा रहता है।"
+  },
+  "17.22": {
+    "en": "A gift can harm dignity when delivered with contempt.",
+    "hi": "तिरस्कार से दिया दान गरिमा को चोट पहुँचा सकता है।"
+  },
+  "17.23": {
+    "en": "Om Tat Sat frames action within a sacred orientation.",
+    "hi": "ॐ तत् सत् कर्म को पवित्र दिशा देता है।"
+  },
+  "17.24": {
+    "en": "Om marks a conscious beginning to offering and discipline.",
+    "hi": "ॐ अर्पण और तप का सजग आरम्भ चिह्नित करता है।"
+  },
+  "17.25": {
+    "en": "Tat redirects ownership away from personal reward.",
+    "hi": "तत् निजी फल से स्वामित्व का आग्रह हटाता है।"
+  },
+  "17.26": {
+    "en": "Sat associates spiritual action with truth and goodness.",
+    "hi": "सत् आध्यात्मिक कर्म को सत्य और शुभ से जोड़ता है।"
+  },
+  "17.27": {
+    "en": "Steadfastness gives goodness continuity beyond isolated acts.",
+    "hi": "निष्ठा शुभता को एक-दो कर्म से आगे निरन्तरता देती है।"
+  },
+  "17.28": {
+    "en": "Without inward sincerity, outward performance becomes spiritually empty.",
+    "hi": "भीतरी श्रद्धा बिना बाहरी प्रदर्शन आध्यात्मिक रूप से खोखला है।"
+  },
+  "18.1": {
+    "en": "Arjuna asks for a final distinction between renunciation and relinquishment.",
+    "hi": "अर्जुन संन्यास और त्याग का अन्तिम स्पष्ट भेद पूछते हैं।"
+  },
+  "18.2": {
+    "en": "Renouncing selfish action differs from relinquishing every action’s rewards.",
+    "hi": "काम्य कर्म छोड़ना सभी कर्मों की फलासक्ति छोड़ने से भिन्न है।"
+  },
+  "18.3": {
+    "en": "Different opinions reveal why the question needs careful resolution.",
+    "hi": "भिन्न मत बताते हैं कि प्रश्न का विवेकपूर्ण समाधान चाहिए।"
+  },
+  "18.4": {
+    "en": "Krishna organizes relinquishment through three qualities of motivation.",
+    "hi": "कृष्ण त्याग को उद्देश्य के तीन गुणों में समझाते हैं।"
+  },
+  "18.5": {
+    "en": "Giving, discipline, and offering remain valuable practices.",
+    "hi": "दान, तप और यज्ञ मूल्यवान अभ्यास बने रहते हैं।"
+  },
+  "18.6": {
+    "en": "Even good practices should release possessiveness and reward-seeking.",
+    "hi": "अच्छे साधन भी आसक्ति और फल की चाह छोड़कर हों।"
+  },
+  "18.7": {
+    "en": "Confused avoidance of responsibility is not liberating renunciation.",
+    "hi": "मोह से दायित्व छोड़ना मुक्तिदायी संन्यास नहीं है।"
+  },
+  "18.8": {
+    "en": "Discomfort alone does not determine whether duty should be abandoned.",
+    "hi": "केवल असुविधा कर्तव्य छोड़ने का निर्णय नहीं करती।"
+  },
+  "18.9": {
+    "en": "Doing what is needed without grasping expresses mature relinquishment.",
+    "hi": "आवश्यक कर्म अनासक्त होकर करना सात्त्विक त्याग है।"
+  },
+  "18.10": {
+    "en": "Wise renunciation avoids both resentment and compulsive preference.",
+    "hi": "विवेकपूर्ण त्याग द्वेष और बाध्य पसन्द दोनों घटाता है।"
+  },
+  "18.11": {
+    "en": "Embodied life continues acting; freedom concerns attachment to its fruits.",
+    "hi": "देहधारी कर्म करता रहता है; स्वतन्त्रता फलासक्ति से जुड़ी है।"
+  },
+  "18.12": {
+    "en": "Possessive investment determines how results continue to bind.",
+    "hi": "ममतापूर्ण आग्रह परिणामों के बन्धन को जारी रखता है।"
+  },
+  "18.13": {
+    "en": "The account introduces multiple causes behind every accomplished action.",
+    "hi": "विवेचन प्रत्येक कर्म के पीछे अनेक कारण बताता है।"
+  },
+  "18.14": {
+    "en": "Body, agency, instruments, effort, and the divine all receive consideration.",
+    "hi": "शरीर, कर्ता, साधन, चेष्टा और दैव सभी विचारणीय हैं।"
+  },
+  "18.15": {
+    "en": "Physical, verbal, and mental deeds share this complexity of causation.",
+    "hi": "शारीरिक, वाचिक और मानसिक कर्म में यह बहुकारणता है।"
+  },
+  "18.16": {
+    "en": "Exclusive self-authorship overlooks the conditions making action possible.",
+    "hi": "केवल अपना कर्तापन कर्म सम्भव करने वाली स्थितियाँ भूलता है।"
+  },
+  "18.17": {
+    "en": "Non-doership is metaphysical insight, not an exemption from ethical responsibility.",
+    "hi": "अकर्तापन तत्त्वबोध है, नैतिक दायित्व से छूट नहीं।"
+  },
+  "18.18": {
+    "en": "Knowing, intending, and executing form distinguishable aspects of action.",
+    "hi": "ज्ञान, प्रेरणा और क्रिया कर्म के अलग पहलू हैं।"
+  },
+  "18.19": {
+    "en": "The gunas provide a framework for examining these differences.",
+    "hi": "गुण इन भेदों के परीक्षण का ढाँचा देते हैं।"
+  },
+  "18.20": {
+    "en": "Clear knowledge recognizes unity without denying visible diversity.",
+    "hi": "निर्मल ज्ञान दृश्य विविधता में भी एकता पहचानता है।"
+  },
+  "18.21": {
+    "en": "Divided knowledge treats differences as the whole reality.",
+    "hi": "भेदप्रधान ज्ञान भिन्नताओं को ही सम्पूर्ण सत्य मानता है।"
+  },
+  "18.22": {
+    "en": "Narrow knowledge mistakes a fragment for the entire truth.",
+    "hi": "संकीर्ण ज्ञान एक अंश को पूरा सत्य मान लेता है।"
+  },
+  "18.23": {
+    "en": "Balanced action joins responsibility with freedom from grasping.",
+    "hi": "संतुलित कर्म दायित्व को अनासक्ति से जोड़ता है।"
+  },
+  "18.24": {
+    "en": "Reward and ego can turn great effort into bondage.",
+    "hi": "फल और अहंकार बड़े प्रयास को भी बन्धन बनाते हैं।"
+  },
+  "18.25": {
+    "en": "Ignoring consequences and capacity makes action destructive.",
+    "hi": "परिणाम और सामर्थ्य की उपेक्षा कर्म को विनाशकारी बनाती है।"
+  },
+  "18.26": {
+    "en": "The steady doer combines enthusiasm with non-attachment.",
+    "hi": "स्थिर कर्ता उत्साह और अनासक्ति को जोड़ता है।"
+  },
+  "18.27": {
+    "en": "Greed and emotional volatility distort the doer’s motivation.",
+    "hi": "लोभ और भावनात्मक अस्थिरता कर्ता का उद्देश्य बिगाड़ते हैं।"
+  },
+  "18.28": {
+    "en": "Negligence and procrastination undermine responsible agency.",
+    "hi": "प्रमाद और टालमटोल जिम्मेदार कर्तापन कमजोर करते हैं।"
+  },
+  "18.29": {
+    "en": "Intelligence and perseverance also require qualitative examination.",
+    "hi": "बुद्धि और धृति की गुणवत्ता भी परखनी चाहिए।"
+  },
+  "18.30": {
+    "en": "Clear intelligence distinguishes duty, risk, bondage, and freedom.",
+    "hi": "निर्मल बुद्धि कर्तव्य, भय, बन्धन और मुक्ति पहचानती है।"
+  },
+  "18.31": {
+    "en": "Confused intelligence misjudges ethical obligations and their limits.",
+    "hi": "भ्रमित बुद्धि धर्म और कर्तव्य की सीमा गलत समझती है।"
+  },
+  "18.32": {
+    "en": "Darkened judgment reverses right and wrong with confidence.",
+    "hi": "अज्ञानग्रस्त बुद्धि अधर्म को विश्वासपूर्वक धर्म मानती है।"
+  },
+  "18.33": {
+    "en": "Constructive perseverance coordinates mind, vitality, and senses.",
+    "hi": "सात्त्विक धृति मन, प्राण और इन्द्रियों को सँभालती है।"
+  },
+  "18.34": {
+    "en": "Result-bound perseverance remains dependent on acquiring and enjoying.",
+    "hi": "फलासक्त धृति संग्रह और भोग पर निर्भर रहती है।"
+  },
+  "18.35": {
+    "en": "Stubborn persistence can preserve fear and despair rather than wisdom.",
+    "hi": "हठपूर्ण धृति विवेक के बजाय भय और विषाद पकड़े रख सकती है।"
+  },
+  "18.36": {
+    "en": "Pleasure is examined by its development, not first impression alone.",
+    "hi": "सुख को केवल आरम्भ नहीं, उसके विकास से परखा गया है।"
+  },
+  "18.37": {
+    "en": "Difficult beginnings can lead toward a more lasting well-being.",
+    "hi": "कठिन आरम्भ अधिक स्थायी सुख की ओर ले जा सकता है।"
+  },
+  "18.38": {
+    "en": "Immediate sweetness may conceal painful later consequences.",
+    "hi": "तत्काल मिठास बाद के दुःखद परिणाम छिपा सकती है।"
+  },
+  "18.39": {
+    "en": "Numbing pleasure differs from restorative rest and genuine peace.",
+    "hi": "मोहकारी सुख पुनर्स्थापक विश्राम और वास्तविक शान्ति से भिन्न है।"
+  },
+  "18.40": {
+    "en": "All embodied nature participates in the three qualities.",
+    "hi": "सम्पूर्ण देहधारी प्रकृति तीन गुणों से जुड़ी है।"
+  },
+  "18.41": {
+    "en": "Historical social duties are discussed through temperament and qualities.",
+    "hi": "ऐतिहासिक सामाजिक दायित्व स्वभाव और गुणों से समझाए गए हैं।"
+  },
+  "18.42": {
+    "en": "Learning-oriented work calls for restraint, honesty, and understanding.",
+    "hi": "ज्ञानपरक कार्य संयम, सरलता और समझ माँगता है।"
+  },
+  "18.43": {
+    "en": "Protective leadership calls for courage, competence, and generosity.",
+    "hi": "रक्षक नेतृत्व साहस, दक्षता और उदारता माँगता है।"
+  },
+  "18.44": {
+    "en": "Economic and service work sustain society; no role diminishes dignity.",
+    "hi": "आर्थिक और सेवा-कर्म समाज सँभालते हैं; कोई भूमिका गरिमा नहीं घटाती।"
+  },
+  "18.45": {
+    "en": "Dedicated work aligned with one’s disposition can become a path to fulfillment.",
+    "hi": "स्वभावानुकूल समर्पित कर्म सिद्धि का मार्ग बन सकता है।"
+  },
+  "18.46": {
+    "en": "Work becomes worship when related to the source sustaining everyone.",
+    "hi": "सबके आधार से जुड़ा कर्म उपासना बनता है।"
+  },
+  "18.47": {
+    "en": "Another’s polished path need not replace authentic personal responsibility.",
+    "hi": "दूसरे का सुन्दर मार्ग अपना प्रामाणिक दायित्व नहीं बदलता।"
+  },
+  "18.48": {
+    "en": "Imperfection in every undertaking calls for discernment, not paralysis.",
+    "hi": "हर प्रयास का दोष विवेक माँगता है, निष्क्रियता नहीं।"
+  },
+  "18.49": {
+    "en": "Freedom grows through non-attachment, self-command, and reduced craving.",
+    "hi": "अनासक्ति, आत्मसंयम और कामनामुक्ति से स्वतन्त्रता बढ़ती है।"
+  },
+  "18.50": {
+    "en": "The discussion turns from disciplined action toward mature realization.",
+    "hi": "चर्चा अनुशासित कर्म से परिपक्व बोध की ओर मुड़ती है।"
+  },
+  "18.51": {
+    "en": "Clear intelligence and release of attraction prepare contemplation.",
+    "hi": "निर्मल बुद्धि और रागत्याग ध्यान की तैयारी हैं।"
+  },
+  "18.52": {
+    "en": "Moderation and quiet support coordinated body, speech, and mind.",
+    "hi": "संयम और एकान्त शरीर, वाणी और मन को सँभालते हैं।"
+  },
+  "18.53": {
+    "en": "Renouncing arrogance and possessiveness makes room for peace.",
+    "hi": "दर्प और ममता छोड़ना शान्ति का अवसर देता है।"
+  },
+  "18.54": {
+    "en": "Equality and serenity accompany devotion arising from realization.",
+    "hi": "बोध से उत्पन्न भक्ति में समता और प्रसन्नता साथ हैं।"
+  },
+  "18.55": {
+    "en": "Devotion becomes a way of truly knowing and entering.",
+    "hi": "भक्ति तत्त्वतः जानने और प्राप्त होने का मार्ग बनती है।"
+  },
+  "18.56": {
+    "en": "Grace and active responsibility coexist rather than canceling each other.",
+    "hi": "कृपा और सक्रिय दायित्व साथ हैं, एक-दूसरे को मिटाते नहीं।"
+  },
+  "18.57": {
+    "en": "Dedication should retain discriminating intelligence in every action.",
+    "hi": "समर्पण में हर कर्म का विवेक बना रहना चाहिए।"
+  },
+  "18.58": {
+    "en": "Receptivity permits guidance; ego can close that possibility.",
+    "hi": "ग्रहणशीलता मार्गदर्शन खोलती है; अहंकार उसे बन्द कर सकता है।"
+  },
+  "18.59": {
+    "en": "A verbal refusal may conceal unresolved forces of temperament.",
+    "hi": "शाब्दिक इनकार के पीछे स्वभाव की अनसुलझी शक्तियाँ हो सकती हैं।"
+  },
+  "18.60": {
+    "en": "Understanding one’s nature matters when making a sustainable decision.",
+    "hi": "टिकाऊ निर्णय में अपने स्वभाव की समझ महत्त्वपूर्ण है।"
+  },
+  "18.61": {
+    "en": "The machine image challenges assumptions of total independent control.",
+    "hi": "यन्त्र का रूपक पूर्ण स्वतन्त्र नियन्त्रण की धारणा जाँचता है।"
+  },
+  "18.62": {
+    "en": "Wholehearted refuge is offered as a ground of peace.",
+    "hi": "सम्पूर्ण शरणागति शान्ति के आधार के रूप में दी गई है।"
+  },
+  "18.63": {
+    "en": "Krishna explicitly asks Arjuna to reflect and choose.",
+    "hi": "कृष्ण स्पष्टतः अर्जुन को विचारकर निर्णय करने को कहते हैं।"
+  },
+  "18.64": {
+    "en": "The final reassurance arises from care rather than coercion.",
+    "hi": "अन्तिम आश्वासन स्नेह से आता है, दबाव से नहीं।"
+  },
+  "18.65": {
+    "en": "Devotion is framed through a personal promise of relationship.",
+    "hi": "भक्ति आत्मीय सम्बन्ध के व्यक्तिगत आश्वासन में रखी गई है।"
+  },
+  "18.66": {
+    "en": "Surrender releases ultimate self-reliance; it does not license harmful neglect.",
+    "hi": "शरणागति अहंनिर्भरता छोड़ती है; हानिकारक उपेक्षा की अनुमति नहीं देती।"
+  },
+  "18.67": {
+    "en": "Teaching requires receptivity rather than forced persuasion.",
+    "hi": "शिक्षा के लिए ग्रहणशीलता चाहिए, जबरन विश्वास नहीं।"
+  },
+  "18.68": {
+    "en": "Sharing the dialogue is valued when rooted in devotion.",
+    "hi": "भक्तिभाव से संवाद बाँटना मूल्यवान बताया गया है।"
+  },
+  "18.69": {
+    "en": "Helping others understand is honored as meaningful service.",
+    "hi": "दूसरों की समझ बढ़ाना सार्थक सेवा माना गया है।"
+  },
+  "18.70": {
+    "en": "Thoughtful study itself becomes an offering of understanding.",
+    "hi": "विचारपूर्वक अध्ययन स्वयं ज्ञानयज्ञ बनता है।"
+  },
+  "18.71": {
+    "en": "Receptive listening also participates in the dialogue’s benefit.",
+    "hi": "श्रद्धापूर्ण श्रवण भी संवाद के लाभ में भाग लेता है।"
+  },
+  "18.72": {
+    "en": "Krishna checks understanding instead of assuming speech was sufficient.",
+    "hi": "कृष्ण केवल बोलना पर्याप्त न मानकर समझ की जाँच करते हैं।"
+  },
+  "18.73": {
+    "en": "Arjuna’s renewed agency expresses understanding through a considered decision.",
+    "hi": "अर्जुन का विचारपूर्ण निश्चय समझ और निर्णयशक्ति की वापसी दिखाता है।"
+  },
+  "18.74": {
+    "en": "Sanjaya returns as witness to the transformative conversation.",
+    "hi": "संजय परिवर्तनकारी संवाद के साक्षी रूप में लौटते हैं।"
+  },
+  "18.75": {
+    "en": "He acknowledges the mediation that made his listening possible.",
+    "hi": "वे अपने श्रवण को सम्भव बनाने वाली कृपा स्वीकारते हैं।"
+  },
+  "18.76": {
+    "en": "Remembering the dialogue renews its significance beyond the event.",
+    "hi": "संवाद का स्मरण घटना से आगे उसका अर्थ जगाता है।"
+  },
+  "18.77": {
+    "en": "The remembered universal form sustains wonder and gratitude.",
+    "hi": "विश्वरूप का स्मरण विस्मय और कृतज्ञता बनाए रखता है।"
+  },
+  "18.78": {
+    "en": "Wisdom and committed action together form the closing image.",
+    "hi": "ज्ञान और संकल्पित कर्म साथ मिलकर अन्तिम चित्र बनाते हैं।"
+  }
+}

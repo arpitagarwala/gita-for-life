@@ -11,3 +11,5 @@ Life-topic connections, prompts and daily reflections are new modern interpretat
 The bilingual shloka explanations added in this revision are original contemporary study notes. They are not attributed to the translators. All 701 entries are covered by 148 passage notes; the applicable verse range is displayed with each explanation.
 
 The compact guidance matching assets derive from MinishLab potion-multilingual-128M, revision 73908c3438cf03b6a01bcb9611d62b23d0726f08, under MIT. See public/guidance/LICENSE.txt. Runtime questions are processed locally; the original full model is not distributed.
+
+This update adds 701 original English/Hindi verse insights and 18 original bilingual chapter study guides, practices, and reflection prompts. Existing shared passage notes remain labeled. App-authored English renderings replace unavailable entries at 4.33, 6.38, 8.1, 10.15, 12.3 and 12.18, and the mismatched English entry at 18.45. Original Hindi renderings replace unavailable entries at 12.3 and 12.18 and the mismatched entry at 18.45. These replacements are credited to Gita for Life on the reader pages, not to the inherited translators.

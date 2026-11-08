@@ -7,7 +7,8 @@ export const metadata: Metadata = {
  description: 'Explore the complete Bhagavad Gita in Sanskrit, Hindi and English. Find connected shlokas for everyday challenges, build a reading habit, and reflect privately. Free, with no account required.',
  manifest: '/manifest.webmanifest',
  openGraph: {title:'Gita for Life',description:'Ancient wisdom. Everyday clarity.',type:'website',locale:'en_IN'},
- robots: {index:true,follow:true}, icons: {icon:'/icon.svg'},
+ robots: {index:true,follow:true}, icons: {icon:'/icon.svg',apple:'/icons/apple-touch-icon.png'},
+ appleWebApp:{capable:true,title:'Gita for Life',statusBarStyle:'default'},
 };
 export const viewport: Viewport = {width:'device-width',initialScale:1,themeColor:'#244e40'};
 export default function RootLayout({children}:{children:React.ReactNode}) {

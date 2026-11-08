@@ -10,6 +10,8 @@ export interface GitaVerse {
   meaningHindi: string;
   wordMeanings: string;
   purport: string;
+  englishSource?: string;
+  hindiSource?: string;
 }
 
 export interface GitaChapter {
@@ -1820,7 +1822,8 @@ export const GITA_CHAPTERS: GitaChapter[] = [
         "verse": 33,
         "sanskrit": "श्रेयान्द्रव्यमयाद्यज्ञाज्ज्ञानयज्ञः परन्तप |\nसर्वं कर्माखिलं पार्थ ज्ञाने परिसमाप्यते ||४-३३||",
         "transliteration": "śreyāndravyamayādyajñājjñānayajñaḥ parantapa .\nsarvaṃ karmākhilaṃ pārtha jñāne parisamāpyate ||4-33||",
-        "meaning": "Swami Sivananda did not comment on this sloka",
+        "meaning": "An offering made with knowledge is greater than an offering of material things, O Arjuna. Every action finds its fulfillment in knowledge.",
+        "englishSource": "Gita for Life · original rendering",
         "meaningHindi": "।।4.33।। हे परन्तप ! द्रव्यों से सम्पन्न होने वाले यज्ञ की अपेक्षा ज्ञानयज्ञ श्रेष्ठ है। हे पार्थ ! सम्पूर्ण अखिल कर्म ज्ञान में समाप्त होते हैं,  अर्थात् ज्ञान उनकी पराकाष्ठा है।।",
         "wordMeanings": "",
         "purport": ""
@@ -2526,7 +2529,8 @@ export const GITA_CHAPTERS: GitaChapter[] = [
         "verse": 38,
         "sanskrit": "कच्चिन्नोभयविभ्रष्टश्छिन्नाभ्रमिव नश्यति |\nअप्रतिष्ठो महाबाहो विमूढो ब्रह्मणः पथि ||६-३८||",
         "transliteration": "kaccinnobhayavibhraṣṭaśchinnābhramiva naśyati .\napratiṣṭho mahābāho vimūḍho brahmaṇaḥ pathi ||6-38||",
-        "meaning": "Swami Sivananda did not comment on this sloka",
+        "meaning": "O mighty-armed Krishna, does one who has fallen from both paths perish like a scattered cloud, without support and bewildered on the path to Brahman?",
+        "englishSource": "Gita for Life · original rendering",
         "meaningHindi": "।।6.38।। हे महबाहो ! क्या वह ब्रह्म के मार्ग में मोहित तथा आश्रयरहित पुरुष छिन्न-भिन्न मेघ के समान दोनों ओर से भ्रष्ट हुआ नष्ट तो नहीं हो जाता है?",
         "wordMeanings": "",
         "purport": ""
@@ -2908,7 +2912,8 @@ export const GITA_CHAPTERS: GitaChapter[] = [
         "verse": 1,
         "sanskrit": "अर्जुन उवाच |\nकिं तद् ब्रह्म किमध्यात्मं किं कर्म पुरुषोत्तम |\nअधिभूतं च किं प्रोक्तमधिदैवं किमुच्यते ||८-१||",
         "transliteration": "arjuna uvāca .\nkiṃ tad brahma kimadhyātmaṃ kiṃ karma puruṣottama .\nadhibhūtaṃ ca kiṃ proktamadhidaivaṃ kimucyate ||8-1||",
-        "meaning": "Swami Sivananda did not comment on this sloka",
+        "meaning": "Arjuna asked: What is Brahman? What is the self? What is action, O Supreme Person? What is called the realm of perishable beings, and what is the divine principle?",
+        "englishSource": "Gita for Life · original rendering",
         "meaningHindi": "।।8.1।। अर्जुन ने कहा -हे पुरुषोत्तम ! वह ब्रह्म क्या है अध्यात्म क्या है? तथा कर्म क्या है? और अधिभूत नाम से क्या कहा गया है? तथा अधिदैव नाम से क्या कहा जाता है,",
         "wordMeanings": "",
         "purport": ""
@@ -3614,7 +3619,8 @@ export const GITA_CHAPTERS: GitaChapter[] = [
         "verse": 15,
         "sanskrit": "स्वयमेवात्मनात्मानं वेत्थ त्वं पुरुषोत्तम |\nभूतभावन भूतेश देवदेव जगत्पते ||१०-१५||",
         "transliteration": "svayamevātmanātmānaṃ vettha tvaṃ puruṣottama .\nbhūtabhāvana bhūteśa devadeva jagatpate ||10-15||",
-        "meaning": "Swami Sivananda did not comment on this sloka",
+        "meaning": "You alone know Yourself through Yourself, O Supreme Person, source and Lord of beings, God of gods and Lord of the universe.",
+        "englishSource": "Gita for Life · original rendering",
         "meaningHindi": "।।10.15।। हे पुरुषोत्तम ! हे भूतभावन ! हे भूतेश ! हे देवों के देव ! हे जगत् के स्वामी ! आप स्वयं ही अपने आप को जानते हैं।।",
         "wordMeanings": "",
         "purport": ""
@@ -4401,8 +4407,10 @@ export const GITA_CHAPTERS: GitaChapter[] = [
         "verse": 3,
         "sanskrit": "ये त्वक्षरमनिर्देश्यमव्यक्तं पर्युपासते |\nसर्वत्रगमचिन्त्यञ्च कूटस्थमचलन्ध्रुवम् ||१२-३||",
         "transliteration": "ye tvakṣaramanirdeśyamavyaktaṃ paryupāsate .\nsarvatragamacintyañca kūṭasthamacalandhruvam ||12-3||",
-        "meaning": "Swami Sivananda did not comment on this sloka",
-        "meaningHindi": "Swami Tejomayananda did not comment on this sloka",
+        "meaning": "Those who worship the imperishable, indescribable, unmanifest, all-pervading, inconceivable, unchanging, immovable and enduring reality—",
+        "englishSource": "Gita for Life · original rendering",
+        "meaningHindi": "जो अक्षर, अनिर्देश्य, अव्यक्त, सर्वव्यापी, अचिन्त्य, अचल और ध्रुव तत्त्व की उपासना करते हैं—",
+        "hindiSource": "गीता फॉर लाइफ · स्वतन्त्र भावानुवाद",
         "wordMeanings": "",
         "purport": ""
       },
@@ -4536,8 +4544,10 @@ export const GITA_CHAPTERS: GitaChapter[] = [
         "verse": 18,
         "sanskrit": "समः शत्रौ च मित्रे च तथा मानापमानयोः |\nशीतोष्णसुखदुःखेषु समः सङ्गविवर्जितः ||१२-१८||",
         "transliteration": "samaḥ śatrau ca mitre ca tathā mānāpamānayoḥ .\nśītoṣṇasukhaduḥkheṣu samaḥ saṅgavivarjitaḥ ||12-18||",
-        "meaning": "Swami Sivananda did not comment on this sloka",
-        "meaningHindi": "Swami Tejomayananda did not comment on this sloka",
+        "meaning": "One who is alike toward friend and enemy, in honor and dishonor, in heat and cold, in pleasure and pain, and who is free from attachment—",
+        "englishSource": "Gita for Life · original rendering",
+        "meaningHindi": "जो शत्रु-मित्र, मान-अपमान, सर्दी-गर्मी तथा सुख-दुःख में सम रहते हैं और आसक्ति से मुक्त हैं—",
+        "hindiSource": "गीता फॉर लाइफ · स्वतन्त्र भावानुवाद",
         "wordMeanings": "",
         "purport": ""
       },
@@ -6231,8 +6241,10 @@ export const GITA_CHAPTERS: GitaChapter[] = [
         "verse": 45,
         "sanskrit": "स्वे स्वे कर्मण्यभिरतः संसिद्धिं लभते नरः |\nस्वकर्मनिरतः सिद्धिं यथा विन्दति तच्छृणु ||१८-४५||",
         "transliteration": "sve sve karmaṇyabhirataḥ saṃsiddhiṃ labhate naraḥ .\nsvakarmanirataḥ siddhiṃ yathā vindati tacchṛṇu ||18-45||",
-        "meaning": "5.10 He who does actions, offering them to Brahman, and abandoning attachment, is not tainted by sin, just as a lotus-leaf is not tainted by water.",
-        "meaningHindi": "।।5.10।। जो पुरुष सब कर्म ब्रह्म में अर्पण करके और आसक्ति को त्यागकर करता है,  वह पुरुष कमल के पत्ते के सदृश पाप से लिप्त नहीं होता।।",
+        "meaning": "By remaining devoted to one’s own work, a person attains fulfillment. Hear how dedication to one’s own work leads to that fulfillment.",
+        "englishSource": "Gita for Life · original rendering",
+        "meaningHindi": "अपने-अपने कर्म में निष्ठापूर्वक लगा मनुष्य सिद्धि पाता है। अपने कर्म में तत्पर रहकर वह किस प्रकार सिद्धि प्राप्त करता है, यह सुनो।",
+        "hindiSource": "गीता फॉर लाइफ · स्वतन्त्र भावानुवाद",
         "wordMeanings": "",
         "purport": ""
       },

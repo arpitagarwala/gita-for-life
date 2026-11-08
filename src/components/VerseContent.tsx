@@ -4,7 +4,8 @@ import Reader from './Reader';
 import {useLanguage} from './Language';
 import {CHAPTERS_HI} from '@/data/chapters-hi';
 import type {Explanation} from '@/data/explanations';
-type Props={chapter:number;verse:number;nameEnglish:string;sanskrit:string;transliteration:string;meaning:string;meaningHindi:string;explanation:Explanation;previous:string|null;next:string|null;topics:{title:string;connection:string;refs:string[]}[]};
+import type {StudyNote} from '@/data/study-notes';
+type Props={chapter:number;verse:number;nameEnglish:string;sanskrit:string;transliteration:string;meaning:string;meaningHindi:string;explanation:Explanation;study:StudyNote;englishSource?:string;hindiSource?:string;previous:string|null;next:string|null;topics:{title:string;connection:string;refs:string[]}[]};
 export default function VerseContent(p:Props){
  const {language,tr}=useLanguage();
  const refs=[...new Set(p.topics.flatMap(t=>t.refs))].filter(r=>r!==p.chapter+'.'+p.verse);

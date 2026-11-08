@@ -4,9 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "node scripts/prepare-data.mjs && node scripts/build-guidance-worker.mjs && next dev",
-    "build": "node scripts/prepare-data.mjs && node scripts/build-guidance-worker.mjs && next build",
+    "build": "node scripts/build-study-notes.mjs && node scripts/prepare-data.mjs && node scripts/build-guidance-worker.mjs && next build",
     "start": "node scripts/preview.mjs",
-    "check": "node scripts/prepare-data.mjs && node scripts/build-guidance-worker.mjs && node scripts/check-guidance.mjs && node scripts/check-personalized-guidance.mjs && node scripts/check-reading.mjs && tsc --noEmit",
+    "check": "node scripts/prepare-data.mjs && node scripts/build-guidance-worker.mjs && node scripts/check-guidance.mjs && node scripts/check-personalized-guidance.mjs && node scripts/check-reading.mjs && node scripts/check-study.mjs && node scripts/check-pwa.mjs && tsc --noEmit",
     "preview": "node scripts/preview.mjs"
   },
   "dependencies": {

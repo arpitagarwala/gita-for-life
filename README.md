@@ -30,10 +30,12 @@ Runtime matching files total approximately 4.93 MB, plus the scripture corpus an
 
 - Sanskrit, transliteration, English and Hindi reading
 - App-wide English/Hindi selection
-- Explanations for all 701 shlokas, with shared passage context clearly identified
+- Detailed explanations for all 701 shlokas: individual bilingual insights, 148 labeled passage notes, chapter context, practical guidance, and reflection prompts
 - Corpus search, local bookmarks, reading position, private journal and export
 - Day/night modes and larger text
 - Read aloud and offline caching
+- Installable PWA with Android/desktop install prompts, iOS instructions, PNG/maskable/Apple icons, and safe update notices
+- Subtle page, section, navigation, disclosure, and interaction motion with reduced-motion support
 - Static metadata, canonical links, robots and sitemap
 
 ## Rebuilding the matching data
@@ -55,7 +57,7 @@ The model source is pinned to MinishLab potion-multilingual-128M revision `73908
 
 ## Data and privacy
 
-The inherited scripture dataset comes from Vedic Scriptures. English translation: Swami Sivananda; Hindi translation: Swami Tejomayananda. Original modern explanations cover every entry through 148 passage notes. This edition includes Arjuna's opening question in chapter 13 and therefore has 701 entries. Retain the source attributions and review THIRD_PARTY_NOTICES.md when redistributing.
+The inherited scripture dataset comes from Vedic Scriptures. English translation: Swami Sivananda; Hindi translation: Swami Tejomayananda. Original modern explanations include 701 individual verse insights, 148 passage notes, and clearly labeled chapter study guidance. App-authored replacement renderings are credited on the affected pages and listed under About. This edition includes Arjuna's opening question in chapter 13 and therefore has 701 entries. Retain the source attributions and review THIRD_PARTY_NOTICES.md when redistributing.
 
 Questions and follow-up details exist only in the current page's memory. Notes, bookmarks and display preferences are stored on the device. Export notes before clearing browsing data. There are no tracking scripts or advertising.
 

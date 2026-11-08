@@ -1,0 +1,19 @@
+import fs from 'node:fs';import vm from 'node:vm';import assert from 'node:assert/strict';
+const manifest=JSON.parse(fs.readFileSync('public/manifest.webmanifest','utf8'));
+assert.equal(manifest.display,'standalone');assert.equal(manifest.scope,'/');assert.equal(manifest.id,'/');
+for(const size of [192,512]){const icon=manifest.icons.find(i=>i.sizes===`${size}x${size}`&&i.purpose==='any');assert.ok(icon);const bytes=fs.readFileSync('public'+icon.src);assert.equal(bytes.readUInt32BE(16),size);assert.equal(bytes.readUInt32BE(20),size);}
+assert.ok(manifest.icons.some(i=>i.purpose==='maskable'));assert.ok(fs.existsSync('public/icons/apple-touch-icon.png'));
+const handlers={};const stores=new Map();let online=true,serverError=false,networkCount=0,skipped=0,claimed=0;
+const key=value=>new URL(typeof value==='string'?value:value.url,'https://gita.test').href;
+const caches={async open(name){if(!stores.has(name))stores.set(name,new Map());const map=stores.get(name);return {async match(request){return map.get(key(request))?.clone();},async put(request,response){map.set(key(request),response.clone());},async addAll(urls){for(const url of urls){const response=await fetcher({url:key(url)});if(!response.ok)throw Error('Bad precache '+url);map.set(key(url),response);}}};},async keys(){return [...stores.keys()];},async delete(name){return stores.delete(name);}};
+async function fetcher(request){networkCount++;if(!online)throw Error('Offline');if(serverError)return new Response('Unavailable',{status:503});const path=new URL(request.url).pathname;return new Response(path==='/'?'<script src="/_next/static/test.js"></script>':path==='/offline.html'?'Offline fallback / ऑफलाइन':`Network response for ${path}`,{headers:{'Content-Type':path.includes('.')?'application/octet-stream':'text/html'}});}
+const scope={self:{location:{origin:'https://gita.test'},addEventListener:(type,fn)=>handlers[type]=fn,skipWaiting:()=>{skipped++;},clients:{claim:()=>{claimed++;}}},caches,fetch:fetcher,Request,Response,URL,AbortSignal};
+vm.runInNewContext(fs.readFileSync('public/sw.js','utf8'),scope);
+async function event(type,extra={}){let task;handlers[type]({...extra,waitUntil:value=>task=value,respondWith:value=>task=value});return await task;}
+async function request(path,mode='navigate',method='GET'){return event('fetch',{request:{url:key(path),mode,method}});}
+await event('install');assert.equal(skipped,0,'Do not interrupt open journal with automatic update');await caches.open('another-app-cache');await caches.open('gita-for-life-v4');await event('activate');assert.equal(claimed,1);assert.ok(stores.has('another-app-cache'));assert.ok(!stores.has('gita-for-life-v4'));
+await request('/2/47');online=false;assert.match(await (await request('/2/47')).text(),/Network response/);assert.match(await (await request('/18/78')).text(),/Offline fallback/);
+assert.equal((await request('/missing.bin','cors')).status,503);assert.equal(await request('/','navigate','POST'),undefined);assert.equal(await event('fetch',{request:{url:'https://other.test/',method:'GET',mode:'cors'}}),undefined);
+online=true;await request('/guidance/words-0.bin','cors');const before=networkCount;online=false;assert.equal((await request('/guidance/words-0.bin','cors')).status,200);assert.equal(networkCount,before,'Immutable guidance available without network');
+online=true;await event('message',{data:{type:'CACHE_PAGE',path:'/18/78'}});online=false;assert.match(await (await request('/18/78')).text(),/Network response/,'Client-side visited page is reopenable offline');online=true;serverError=true;assert.match(await (await request('/2/47')).text(),/Network response/);handlers.message({data:{type:'ACTIVATE_UPDATE'}});assert.equal(skipped,1);
+console.log('PWA checks passed: PNG dimensions, manifest, offline visited/unvisited routes, guidance cache, server-error fallback, origin/method isolation, scoped cleanup, and explicit updates.');
